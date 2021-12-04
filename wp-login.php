@@ -16,16 +16,16 @@ var LWA = {"ajaxurl":"https:\/\/alonelycomet.meoki.net\/wp-admin\/admin-ajax.php
 <script type="text/javascript" src="https://alonelycomet.meoki.net/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1" id="jquery-ui-core-js"></script>
 <script type="text/javascript" src="https://alonelycomet.meoki.net/wp-includes/js/jquery/ui/mouse.min.js?ver=1.12.1" id="jquery-ui-mouse-js"></script>
 <script type="text/javascript" src="https://alonelycomet.meoki.net/wp-includes/js/jquery/ui/sortable.min.js?ver=1.12.1" id="jquery-ui-sortable-js"></script>
-<script type="text/javascript" src="https://alonelycomet.meoki.net/wp-content/plugins/accesspress-social-login-lite/js/backend.js?ver=3.4.7" id="apsl-admin-js-js"></script>
+<script type="text/javascript" src="https://alonelycomet.meoki.net/wp-content/plugins/accesspress-social-login-lite/js/backend.js?ver=3.4.8" id="apsl-admin-js-js"></script>
 <link rel="stylesheet" id="login-with-ajax-css" href="https://alonelycomet.meoki.net/wp-content/themes/ceris/plugins/login-with-ajax/widget.css?ver=3.1.11" type="text/css" media="all">
 <link rel="stylesheet" id="dashicons-css" href="https://alonelycomet.meoki.net/wp-includes/css/dashicons.min.css?ver=5.8.2" type="text/css" media="all">
 <link rel="stylesheet" id="buttons-css" href="https://alonelycomet.meoki.net/wp-includes/css/buttons.min.css?ver=5.8.2" type="text/css" media="all">
 <link rel="stylesheet" id="forms-css" href="https://alonelycomet.meoki.net/wp-admin/css/forms.min.css?ver=5.8.2" type="text/css" media="all">
 <link rel="stylesheet" id="l10n-css" href="https://alonelycomet.meoki.net/wp-admin/css/l10n.min.css?ver=5.8.2" type="text/css" media="all">
 <link rel="stylesheet" id="login-css" href="https://alonelycomet.meoki.net/wp-admin/css/login.min.css?ver=5.8.2" type="text/css" media="all">
-<link rel="stylesheet" id="fontawesome-latest-css-css" href="https://alonelycomet.meoki.net/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/fontawesome.css?ver=3.4.7" type="text/css" media="all">
-<link rel="stylesheet" id="apsl-backend-css-css" href="https://alonelycomet.meoki.net/wp-content/plugins/accesspress-social-login-lite/css/backend.css?ver=3.4.7" type="text/css" media="all">
-<link rel="stylesheet" id="apsl-frontend-css-css" href="https://alonelycomet.meoki.net/wp-content/plugins/accesspress-social-login-lite/css/frontend.css?ver=3.4.7" type="text/css" media="all">
+<link rel="stylesheet" id="fontawesome-latest-css-css" href="https://alonelycomet.meoki.net/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/fontawesome.css?ver=3.4.8" type="text/css" media="all">
+<link rel="stylesheet" id="apsl-backend-css-css" href="https://alonelycomet.meoki.net/wp-content/plugins/accesspress-social-login-lite/css/backend.css?ver=3.4.8" type="text/css" media="all">
+<link rel="stylesheet" id="apsl-frontend-css-css" href="https://alonelycomet.meoki.net/wp-content/plugins/accesspress-social-login-lite/css/frontend.css?ver=3.4.8" type="text/css" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 	<link rel="icon" href="https://alonelycomet.meoki.net/wp-content/uploads/2021/10/cropped-512-32x32.png" sizes="32x32">
@@ -113,7 +113,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/blog\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="https://alonelycomet.meoki.net/wp-includes/js/wp-util.min.js?ver=5.8.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /*  */
-var userProfileL10n = {"user_id":"0","nonce":"3939635f83"};
+var userProfileL10n = {"user_id":"0","nonce":"f7312c86fb"};
 /*  */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
