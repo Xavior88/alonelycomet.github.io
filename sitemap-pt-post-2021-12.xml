@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://alonelycomet.meoki.net/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="8 December, 2021 7:16 am" -->
+<!-- generated-on="13 December, 2021 6:19 am" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>https://alonelycomet.meoki.net/2021/12/13/binh-luan-mushoku-tensei-tap-22/</loc>
+		<lastmod>2021-12-13T05:30:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>https://alonelycomet.meoki.net/2021/12/12/mushoku-tensei-world-building-va-he-thong-suc-manh/</loc>
+		<lastmod>2021-12-13T05:28:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
 		<loc>https://alonelycomet.meoki.net/2021/12/08/binh-luan-takt-op-destiny-tap-10/</loc>
 		<lastmod>2021-12-08T06:34:41+00:00</lastmod>
 		<changefreq>monthly</changefreq>
@@ -32,7 +44,7 @@
 	</url>
 	<url>
 		<loc>https://alonelycomet.meoki.net/2021/12/04/chat-art-cua-toshokan-no-daimajutsushi/</loc>
-		<lastmod>2021-12-04T13:24:33+00:00</lastmod>
+		<lastmod>2021-12-13T06:01:18+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
@@ -42,4 +54,4 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
-</urlset><!-- Request ID: c7827392ab9e919398d2b9378b8f9412; Queries for sitemap: 3; Total queries: 17; Seconds: 0; Memory for sitemap: 0MB; Total memory: 12MB -->
+</urlset><!-- Request ID: 6dd00a148898c3c0beaae2cb7764325d; Queries for sitemap: 3; Total queries: 17; Seconds: 0; Memory for sitemap: 0MB; Total memory: 12MB -->
