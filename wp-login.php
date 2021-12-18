@@ -28,10 +28,10 @@ var LWA = {"ajaxurl":"https:\/\/alonelycomet.meoki.net\/wp-admin\/admin-ajax.php
 <link rel="stylesheet" id="apsl-frontend-css-css" href="https://alonelycomet.meoki.net/wp-content/plugins/accesspress-social-login-lite/css/frontend.css?ver=3.4.8" type="text/css" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
-	<link rel="icon" href="https://alonelycomet.meoki.net/wp-content/uploads/2021/10/cropped-512-32x32.png" sizes="32x32">
-<link rel="icon" href="https://alonelycomet.meoki.net/wp-content/uploads/2021/10/cropped-512-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon" href="https://alonelycomet.meoki.net/wp-content/uploads/2021/10/cropped-512-180x180.png">
-<meta name="msapplication-TileImage" content="https://alonelycomet.meoki.net/wp-content/uploads/2021/10/cropped-512-270x270.png">
+	<link rel="icon" href="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/cropped-rounded-32x32.png" sizes="32x32">
+<link rel="icon" href="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/cropped-rounded-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/cropped-rounded-180x180.png">
+<meta name="msapplication-TileImage" content="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/cropped-rounded-270x270.png">
 	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-vi">
 	<script type="text/javascript">
@@ -113,7 +113,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/blog\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="https://alonelycomet.meoki.net/wp-includes/js/wp-util.min.js?ver=5.8.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /*  */
-var userProfileL10n = {"user_id":"0","nonce":"77b652c2bc"};
+var userProfileL10n = {"user_id":"0","nonce":"38030b0fa5"};
 /*  */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
