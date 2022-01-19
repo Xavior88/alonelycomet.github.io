@@ -1,9 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://alonelycomet.meoki.net/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="2 January, 2022 7:49 am" -->
+<!-- generated-on="19 January, 2022 2:15 pm" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>https://alonelycomet.meoki.net/2022/01/19/kyoto-animation-akiko-takase-da-tu-bo-anime/</loc>
+		<lastmod>2022-01-19T13:24:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>https://alonelycomet.meoki.net/2022/01/17/y-nghia-tua-de-hyouka/</loc>
+		<lastmod>2022-01-19T13:29:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>https://alonelycomet.meoki.net/2022/01/16/cloverworks-tinh-hinh-san-xuat-mua-dong-2022/</loc>
+		<lastmod>2022-01-19T13:35:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>https://alonelycomet.meoki.net/2022/01/11/ufotable-va-cau-chuyen-cua-nozomu-abe/</loc>
+		<lastmod>2022-01-19T13:44:49+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>https://alonelycomet.meoki.net/2022/01/10/ryuu-to-sobakasu-no-hime-tuyet-voi-nhung-qua-tham-vong/</loc>
+		<lastmod>2022-01-19T13:52:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>https://alonelycomet.meoki.net/2022/01/07/eiga-daisuki-pompo-san-tuyet-tac-anime-dien-anh-danh-cho-nhung-tin-do-ghien-phim/</loc>
+		<lastmod>2022-01-19T13:59:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
 		<loc>https://alonelycomet.meoki.net/2022/01/02/cloverworks-hay-la-overwork/</loc>
 		<lastmod>2022-01-02T07:40:06+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
-</urlset><!-- Request ID: 7e5fee12c32f13178c701e421fc9cb6e; Queries for sitemap: 3; Total queries: 17; Seconds: 0; Memory for sitemap: 0MB; Total memory: 12MB -->
+</urlset><!-- Request ID: 0ff671b38c46c79964c474d565b22435; Queries for sitemap: 3; Total queries: 17; Seconds: 0; Memory for sitemap: 0MB; Total memory: 12MB -->
