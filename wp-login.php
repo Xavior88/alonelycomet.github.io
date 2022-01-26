@@ -8,21 +8,21 @@
 <script type="text/javascript" src="https://alonelycomet.meoki.net/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
 <script type="text/javascript" src="https://alonelycomet.meoki.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
 <script type="text/javascript" id="login-with-ajax-js-extra">
-/*  */
+/* <![CDATA[ */
 var LWA = {"ajaxurl":"https:\/\/alonelycomet.meoki.net\/wp-admin\/admin-ajax.php"};
-/*  */
+/* ]]> */
 </script>
 <script type="text/javascript" src="https://alonelycomet.meoki.net/wp-content/plugins/login-with-ajax/widget/login-with-ajax.js?ver=3.1.11" id="login-with-ajax-js"></script>
-<script type="text/javascript" src="https://alonelycomet.meoki.net/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1" id="jquery-ui-core-js"></script>
-<script type="text/javascript" src="https://alonelycomet.meoki.net/wp-includes/js/jquery/ui/mouse.min.js?ver=1.12.1" id="jquery-ui-mouse-js"></script>
-<script type="text/javascript" src="https://alonelycomet.meoki.net/wp-includes/js/jquery/ui/sortable.min.js?ver=1.12.1" id="jquery-ui-sortable-js"></script>
+<script type="text/javascript" src="https://alonelycomet.meoki.net/wp-includes/js/jquery/ui/core.min.js?ver=1.13.0" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://alonelycomet.meoki.net/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.0" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="https://alonelycomet.meoki.net/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.0" id="jquery-ui-sortable-js"></script>
 <script type="text/javascript" src="https://alonelycomet.meoki.net/wp-content/plugins/accesspress-social-login-lite/js/backend.js?ver=3.4.8" id="apsl-admin-js-js"></script>
 <link rel="stylesheet" id="login-with-ajax-css" href="https://alonelycomet.meoki.net/wp-content/themes/ceris/plugins/login-with-ajax/widget.css?ver=3.1.11" type="text/css" media="all">
-<link rel="stylesheet" id="dashicons-css" href="https://alonelycomet.meoki.net/wp-includes/css/dashicons.min.css?ver=5.8.3" type="text/css" media="all">
-<link rel="stylesheet" id="buttons-css" href="https://alonelycomet.meoki.net/wp-includes/css/buttons.min.css?ver=5.8.3" type="text/css" media="all">
-<link rel="stylesheet" id="forms-css" href="https://alonelycomet.meoki.net/wp-admin/css/forms.min.css?ver=5.8.3" type="text/css" media="all">
-<link rel="stylesheet" id="l10n-css" href="https://alonelycomet.meoki.net/wp-admin/css/l10n.min.css?ver=5.8.3" type="text/css" media="all">
-<link rel="stylesheet" id="login-css" href="https://alonelycomet.meoki.net/wp-admin/css/login.min.css?ver=5.8.3" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://alonelycomet.meoki.net/wp-includes/css/dashicons.min.css?ver=5.9" type="text/css" media="all">
+<link rel="stylesheet" id="buttons-css" href="https://alonelycomet.meoki.net/wp-includes/css/buttons.min.css?ver=5.9" type="text/css" media="all">
+<link rel="stylesheet" id="forms-css" href="https://alonelycomet.meoki.net/wp-admin/css/forms.min.css?ver=5.9" type="text/css" media="all">
+<link rel="stylesheet" id="l10n-css" href="https://alonelycomet.meoki.net/wp-admin/css/l10n.min.css?ver=5.9" type="text/css" media="all">
+<link rel="stylesheet" id="login-css" href="https://alonelycomet.meoki.net/wp-admin/css/login.min.css?ver=5.9" type="text/css" media="all">
 <link rel="stylesheet" id="fontawesome-latest-css-css" href="https://alonelycomet.meoki.net/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/fontawesome.css?ver=3.4.8" type="text/css" media="all">
 <link rel="stylesheet" id="apsl-backend-css-css" href="https://alonelycomet.meoki.net/wp-content/plugins/accesspress-social-login-lite/css/backend.css?ver=3.4.8" type="text/css" media="all">
 <link rel="stylesheet" id="apsl-frontend-css-css" href="https://alonelycomet.meoki.net/wp-content/plugins/accesspress-social-login-lite/css/frontend.css?ver=3.4.8" type="text/css" media="all">
@@ -78,23 +78,40 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
 			<a href="https://alonelycomet.meoki.net/">&larr; Quay lại A Lonely Comet</a>		</p>
 			</div>
-	<script type="text/javascript" id="zxcvbn-async-js-extra">
-/*  */
+				<div class="language-switcher">
+				<form id="language-switcher" action="" method="get">
+
+					<label for="language-switcher-locales">
+						<span class="dashicons dashicons-translation" aria-hidden="true"></span>
+						<span class="screen-reader-text">Ngôn ngữ</span>
+					</label>
+
+					<select name="wp_lang" id="language-switcher-locales"><option value="en_US" lang="en" data-installed="1">English (United States)</option>
+<option value="vi" lang="vi" selected data-installed="1">Tiếng Việt</option></select>
+					
+					
+					
+						<input type="submit" class="button" value="Change">
+
+					</form>
+				</div>
+				<script type="text/javascript" id="zxcvbn-async-js-extra">
+/* <![CDATA[ */
 var _zxcvbnSettings = {"src":"https:\/\/alonelycomet.meoki.net\/wp-includes\/js\/zxcvbn.min.js"};
-/*  */
+/* ]]> */
 </script>
 <script type="text/javascript" src="https://alonelycomet.meoki.net/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
-<script type="text/javascript" src="https://alonelycomet.meoki.net/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://alonelycomet.meoki.net/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9" id="regenerator-runtime-js"></script>
 <script type="text/javascript" src="https://alonelycomet.meoki.net/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
-<script type="text/javascript" src="https://alonelycomet.meoki.net/wp-includes/js/dist/hooks.min.js?ver=a7edae857aab69d69fa10d5aef23a5de" id="wp-hooks-js"></script>
-<script type="text/javascript" src="https://alonelycomet.meoki.net/wp-includes/js/dist/i18n.min.js?ver=5f1269854226b4dd90450db411a12b79" id="wp-i18n-js"></script>
+<script type="text/javascript" src="https://alonelycomet.meoki.net/wp-includes/js/dist/hooks.min.js?ver=1e58c8c5a32b2e97491080c5b10dc71c" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://alonelycomet.meoki.net/wp-includes/js/dist/i18n.min.js?ver=30fcecb428a0e8383d3776bcdd3a7834" id="wp-i18n-js"></script>
 <script type="text/javascript" id="wp-i18n-js-after">
 wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 </script>
 <script type="text/javascript" id="password-strength-meter-js-extra">
-/*  */
+/* <![CDATA[ */
 var pwsL10n = {"unknown":"Mật khẩu mạnh không xác định","short":"Rất yếu","bad":"Yếu","good":"Trung bình","strong":"Mạnh","mismatch":"Mật khẩu không khớp"};
-/*  */
+/* ]]> */
 </script>
 <script type="text/javascript" id="password-strength-meter-js-translations">
 ( function( domain, translations ) {
@@ -103,18 +120,18 @@ var pwsL10n = {"unknown":"Mật khẩu mạnh không xác định","short":"Rấ
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2021-11-15 07:20:52+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["%1$s đã ngừng hoạt động từ phiên bản %2$s! Sử dụng thay thế bằng %3$s."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );
 </script>
-<script type="text/javascript" src="https://alonelycomet.meoki.net/wp-admin/js/password-strength-meter.min.js?ver=5.8.3" id="password-strength-meter-js"></script>
+<script type="text/javascript" src="https://alonelycomet.meoki.net/wp-admin/js/password-strength-meter.min.js?ver=5.9" id="password-strength-meter-js"></script>
 <script type="text/javascript" src="https://alonelycomet.meoki.net/wp-includes/js/underscore.min.js?ver=1.13.1" id="underscore-js"></script>
 <script type="text/javascript" id="wp-util-js-extra">
-/*  */
+/* <![CDATA[ */
 var _wpUtilSettings = {"ajax":{"url":"\/blog\/wp-admin\/admin-ajax.php"}};
-/*  */
+/* ]]> */
 </script>
-<script type="text/javascript" src="https://alonelycomet.meoki.net/wp-includes/js/wp-util.min.js?ver=5.8.3" id="wp-util-js"></script>
+<script type="text/javascript" src="https://alonelycomet.meoki.net/wp-includes/js/wp-util.min.js?ver=5.9" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
-/*  */
-var userProfileL10n = {"user_id":"0","nonce":"8594683be7"};
-/*  */
+/* <![CDATA[ */
+var userProfileL10n = {"user_id":"0","nonce":"9ecc7efa97"};
+/* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
 ( function( domain, translations ) {
@@ -123,7 +140,7 @@ var userProfileL10n = {"user_id":"0","nonce":"8594683be7"};
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2021-11-15 07:20:52+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"Your new password has not been saved.":["Mật khẩu mới của bạn chưa được lưu."],"Show":["Hiển thị"],"Hide":["Ẩn đi"],"Show password":["Hiện mật khẩu"],"Confirm use of weak password":["Chấp nhận sử dụng mật khẩu yếu."],"Hide password":["Ẩn mật khẩu"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );
 </script>
-<script type="text/javascript" src="https://alonelycomet.meoki.net/wp-admin/js/user-profile.min.js?ver=5.8.3" id="user-profile-js"></script>
+<script type="text/javascript" src="https://alonelycomet.meoki.net/wp-admin/js/user-profile.min.js?ver=5.9" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
 	</html>
