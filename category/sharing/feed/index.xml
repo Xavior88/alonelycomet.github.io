@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Sharing &#8211; A Lonely Comet</title>
-	<atom:link href="https://alonelycomet.meoki.net/category/sharing/feed/" rel="self" type="application/rss+xml" />
-	<link>https://alonelycomet.meoki.net</link>
+	<atom:link href="https://alonelycomet.meoki.vn/category/sharing/feed/" rel="self" type="application/rss+xml" />
+	<link>https://alonelycomet.meoki.vn</link>
 	<description>An Anime Blog &#124; Empire of Dreamers</description>
 	<lastBuildDate>Thu, 30 Dec 2021 13:29:06 +0000</lastBuildDate>
 	<language>vi</language>
@@ -18,19 +18,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9</generator>
+	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://alonelycomet.meoki.net/wp-content/uploads/2021/12/cropped-rounded-32x32.png</url>
+	<url>https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/cropped-rounded-32x32.png</url>
 	<title>Sharing &#8211; A Lonely Comet</title>
-	<link>https://alonelycomet.meoki.net</link>
+	<link>https://alonelycomet.meoki.vn</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Megami Magazine Số 261 (2022-02)</title>
-		<link>https://alonelycomet.meoki.net/2021/12/27/megami-magazine-so-261-2022-02/</link>
-					<comments>https://alonelycomet.meoki.net/2021/12/27/megami-magazine-so-261-2022-02/#respond</comments>
+		<link>https://alonelycomet.meoki.vn/2021/12/27/megami-magazine-so-261-2022-02/</link>
+					<comments>https://alonelycomet.meoki.vn/2021/12/27/megami-magazine-so-261-2022-02/#respond</comments>
 		
 		<dc:creator><![CDATA[Meoki]]></dc:creator>
 		<pubDate>Mon, 27 Dec 2021 08:08:00 +0000</pubDate>
@@ -38,10 +38,10 @@
 		<category><![CDATA[megami]]></category>
 		<category><![CDATA[sharing]]></category>
 		<category><![CDATA[wallpaper]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=2330</guid>
+		<guid isPermaLink="false">https://alonelycomet.meoki.vn/?p=2330</guid>
 
-					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/megami-261.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Megami Magazine&#160;(メガミマガジン,&#160;Megami Magajin) là một tạp chí hàng tháng của Nhật Bản. Megami tập trung chủ yếu vào các nhân vật bishoujo từ anime đang cống chiếu hoặc từ các trò chơi console, với rất nhiều posters, pinups hoặc hình ảnh với độ phân giải rất cao, thường thường vào khoảng 4000 x 6000px hoặc 6000 x 9000px. Và đây là volume kì này. Lưu ý : Ảnh đăng trên này đã được crop chứ có điên mới upload ảnh gốc, nên nếu muốn sưu tầm ảnh gốc của mỗi kỳ Megami xuất bản, có thể liên hệ với tớ. [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/megami-261.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
+					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/megami-261.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Megami Magazine&#160;(メガミマガジン,&#160;Megami Magajin) là một tạp chí hàng tháng của Nhật Bản. Megami tập trung chủ yếu vào các nhân vật bishoujo từ anime đang cống chiếu hoặc từ các trò chơi console, với rất nhiều posters, pinups hoặc hình ảnh với độ phân giải rất cao, thường thường vào khoảng 4000 x 6000px hoặc 6000 x 9000px. Và đây là volume kì này. Lưu ý : Ảnh đăng trên này đã được crop chứ có điên mới upload ảnh gốc, nên nếu muốn sưu tầm ảnh gốc của mỗi kỳ Megami xuất bản, có thể liên hệ với tớ. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/megami-261.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
 <p><strong>Megami Magazine</strong>&nbsp;(メガミマガジン,&nbsp;<em>Megami Magajin</em>)  là một tạp chí hàng tháng của Nhật Bản. Megami tập trung chủ yếu vào các nhân vật bishoujo từ anime đang cống chiếu hoặc từ các trò chơi console, với rất nhiều posters, pinups hoặc hình ảnh với độ phân giải rất cao, thường thường vào khoảng 4000 x 6000px hoặc 6000 x 9000px.</p>
 
 
@@ -62,90 +62,90 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1114" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/megami261-001.jpg" alt="" class="wp-image-2331"/><figcaption>Ichika &#8211; &#8220;The Quintessential Quintuplets&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1114" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/megami261-001.jpg" alt="" class="wp-image-2331"/><figcaption>Ichika &#8211; &#8220;The Quintessential Quintuplets&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1119" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/megami261-002.jpg" alt="" class="wp-image-2332"/><figcaption>Shouko &#8220;Komi Can&#8217;t Communicate&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1119" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/megami261-002.jpg" alt="" class="wp-image-2332"/><figcaption>Shouko &#8220;Komi Can&#8217;t Communicate&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1123" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/megami261-003.jpg" alt="" class="wp-image-2333"/><figcaption>Riko &amp; Naomi &#8220;Puraore! Pride of Orange&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1123" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/megami261-003.jpg" alt="" class="wp-image-2333"/><figcaption>Riko &amp; Naomi &#8220;Puraore! Pride of Orange&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1116" height="768" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/megami261-004.jpg" alt="" class="wp-image-2334"/><figcaption>Dia &#8220;The World&#8217;s Finest Assassin Gets Reincarnated in Another World as an Aristocrat&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1116" height="768" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/megami261-004.jpg" alt="" class="wp-image-2334"/><figcaption>Dia &#8220;The World&#8217;s Finest Assassin Gets Reincarnated in Another World as an Aristocrat&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1115" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/megami261-005.jpg" alt="" class="wp-image-2335"/><figcaption>&#8220;Girls und Panzer&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1115" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/megami261-005.jpg" alt="" class="wp-image-2335"/><figcaption>&#8220;Girls und Panzer&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/megami261-006.jpg" alt="" class="wp-image-2336"/><figcaption>Futaba &amp; Touko &#8220;My Senpai is Annoying&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/megami261-006.jpg" alt="" class="wp-image-2336"/><figcaption>Futaba &amp; Touko &#8220;My Senpai is Annoying&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1116" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/megami261-007.jpg" alt="" class="wp-image-2337"/><figcaption>Karen &#8220;World&#8217;s End Harem&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1116" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/megami261-007.jpg" alt="" class="wp-image-2337"/><figcaption>Karen &#8220;World&#8217;s End Harem&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1116" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/megami261-008.jpg" alt="" class="wp-image-2338"/><figcaption>Yukina &#8220;STRIKE THE BLOOD: FINAL&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1116" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/megami261-008.jpg" alt="" class="wp-image-2338"/><figcaption>Yukina &#8220;STRIKE THE BLOOD: FINAL&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1115" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/megami261-009.jpg" alt="" class="wp-image-2339"/><figcaption>Yuuko &#8220;Muv-Luv Alternative&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1115" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/megami261-009.jpg" alt="" class="wp-image-2339"/><figcaption>Yuuko &#8220;Muv-Luv Alternative&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1125" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/megami261-010.jpg" alt="" class="wp-image-2340"/><figcaption>Mira &amp; Luminaria &#8220;She Professed Herself Pupil of the Wise Man&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1125" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/megami261-010.jpg" alt="" class="wp-image-2340"/><figcaption>Mira &amp; Luminaria &#8220;She Professed Herself Pupil of the Wise Man&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1117" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/megami261-011.jpg" alt="" class="wp-image-2341"/><figcaption>Yuki &#8220;Rumble Garanndoll&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1117" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/megami261-011.jpg" alt="" class="wp-image-2341"/><figcaption>Yuki &#8220;Rumble Garanndoll&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1115" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/megami261-012.jpg" alt="" class="wp-image-2342"/><figcaption>Minami, Haruka &amp; Ayaka &#8220;Sorairo Utility&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1115" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/megami261-012.jpg" alt="" class="wp-image-2342"/><figcaption>Minami, Haruka &amp; Ayaka &#8220;Sorairo Utility&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1117" height="768" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/megami261-013.jpg" alt="" class="wp-image-2343"/><figcaption>Eris &#8220;Mushoku Tensei&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1117" height="768" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/megami261-013.jpg" alt="" class="wp-image-2343"/><figcaption>Eris &#8220;Mushoku Tensei&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1125" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/megami261-014.jpg" alt="" class="wp-image-2344"/><figcaption>M4A1 &amp; M16A1 &#8220;Girls&#8217; Frontline&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1125" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/megami261-014.jpg" alt="" class="wp-image-2344"/><figcaption>M4A1 &amp; M16A1 &#8220;Girls&#8217; Frontline&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1112" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/megami261-015.jpg" alt="" class="wp-image-2345"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1112" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/megami261-015.jpg" alt="" class="wp-image-2345"/></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1115" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/megami261-016.jpg" alt="" class="wp-image-2346"/><figcaption>Koharu &amp; Aoi &#8220;Encouragement of Climb: Next Summit&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1115" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/megami261-016.jpg" alt="" class="wp-image-2346"/><figcaption>Koharu &amp; Aoi &#8220;Encouragement of Climb: Next Summit&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1146" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/megami261-017.jpg" alt="" class="wp-image-2347"/><figcaption>Ui Tamaki &#8220;Magia Record: Puella Magi Madoka Magica Side Story Final Season&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1146" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/megami261-017.jpg" alt="" class="wp-image-2347"/><figcaption>Ui Tamaki &#8220;Magia Record: Puella Magi Madoka Magica Side Story Final Season&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1145" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/megami261-018.jpg" alt="" class="wp-image-2348"/><figcaption>Yue, Kaori &amp; Myuu &#8220;Arifureta: From Commonplace to World&#8217;s Strongest 2nd Season&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1145" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/megami261-018.jpg" alt="" class="wp-image-2348"/><figcaption>Yue, Kaori &amp; Myuu &#8220;Arifureta: From Commonplace to World&#8217;s Strongest 2nd Season&#8221;</figcaption></figure>
 
 
 
 <h5 class="has-text-align-center">&#8211; Hết &#8211;</h5>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/12/27/megami-magazine-so-261-2022-02/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.vn/2021/12/27/megami-magazine-so-261-2022-02/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Megami Magazine Collection</title>
-		<link>https://alonelycomet.meoki.net/2021/12/06/megami-magazine-034-260/</link>
-					<comments>https://alonelycomet.meoki.net/2021/12/06/megami-magazine-034-260/#respond</comments>
+		<link>https://alonelycomet.meoki.vn/2021/12/06/megami-magazine-034-260/</link>
+					<comments>https://alonelycomet.meoki.vn/2021/12/06/megami-magazine-034-260/#respond</comments>
 		
 		<dc:creator><![CDATA[Meoki]]></dc:creator>
 		<pubDate>Mon, 06 Dec 2021 16:46:34 +0000</pubDate>
@@ -153,10 +153,10 @@
 		<category><![CDATA[megami]]></category>
 		<category><![CDATA[sharing]]></category>
 		<category><![CDATA[wallpaper]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=2248</guid>
+		<guid isPermaLink="false">https://alonelycomet.meoki.vn/?p=2248</guid>
 
-					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/all-megami.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Megami Magazine&#160;(メガミマガジン,&#160;Megami Magajin) là một tạp chí hàng tháng của Nhật Bản. Megami tập trung chủ yếu vào các nhân vật bishoujo từ anime đang cống chiếu hoặc từ các trò chơi console, với rất nhiều posters, pinups hoặc hình ảnh với độ phân giải rất cao, thường thường vào khoảng 4000 x 6000px hoặc 6000 x 9000px. . Bữa giờ mình nhận được một số email xin mấy số của Megami, 1 2 người không sao mà nhiều cái rep mail quá mệt mỏi. Nên thôi thì hôm nay mình chia sẻ lại toàn bộ các số Megami mà [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/all-megami.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
+					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/all-megami.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Megami Magazine&#160;(メガミマガジン,&#160;Megami Magajin) là một tạp chí hàng tháng của Nhật Bản. Megami tập trung chủ yếu vào các nhân vật bishoujo từ anime đang cống chiếu hoặc từ các trò chơi console, với rất nhiều posters, pinups hoặc hình ảnh với độ phân giải rất cao, thường thường vào khoảng 4000 x 6000px hoặc 6000 x 9000px. . Bữa giờ mình nhận được một số email xin mấy số của Megami, 1 2 người không sao mà nhiều cái rep mail quá mệt mỏi. Nên thôi thì hôm nay mình chia sẻ lại toàn bộ các số Megami mà [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/all-megami.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
 <p><strong>Megami Magazine</strong>&nbsp;(メガミマガジン,&nbsp;<em>Megami Magajin</em>)  là một tạp chí hàng tháng của Nhật Bản. Megami tập trung chủ yếu vào các nhân vật bishoujo từ anime đang cống chiếu hoặc từ các trò chơi console, với rất nhiều posters, pinups hoặc hình ảnh với độ phân giải rất cao, thường thường vào khoảng 4000 x 6000px hoặc 6000 x 9000px. </p>
 
 
@@ -192,15 +192,15 @@
 <h6>Link download : <a href="https://nyaa.si/view/1464384" data-type="URL" data-id="https://nyaa.si/view/1464384">https://nyaa.si/view/1464384</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/12/06/megami-magazine-034-260/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.vn/2021/12/06/megami-magazine-034-260/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Megami Magazine Số 260 (2022-01)</title>
-		<link>https://alonelycomet.meoki.net/2021/11/30/megami-magazine-so-260-2022-01/</link>
-					<comments>https://alonelycomet.meoki.net/2021/11/30/megami-magazine-so-260-2022-01/#respond</comments>
+		<link>https://alonelycomet.meoki.vn/2021/11/30/megami-magazine-so-260-2022-01/</link>
+					<comments>https://alonelycomet.meoki.vn/2021/11/30/megami-magazine-so-260-2022-01/#respond</comments>
 		
 		<dc:creator><![CDATA[Meoki]]></dc:creator>
 		<pubDate>Mon, 29 Nov 2021 17:21:51 +0000</pubDate>
@@ -208,10 +208,10 @@
 		<category><![CDATA[magazine]]></category>
 		<category><![CDATA[megami]]></category>
 		<category><![CDATA[wallpaper]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=2191</guid>
+		<guid isPermaLink="false">https://alonelycomet.meoki.vn/?p=2191</guid>
 
-					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/megami-260.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Megami Magazine&#160;(メガミマガジン,&#160;Megami Magajin) là một tạp chí hàng tháng của Nhật Bản. Megami tập trung chủ yếu vào các nhân vật bishoujo từ anime đang cống chiếu hoặc từ các trò chơi console, với rất nhiều posters, pinups hoặc hình ảnh với độ phân giải rất cao, thường thường vào khoảng 4000 x 6000px hoặc 6000 x 9000px. Và đây là volume kì này. Lưu ý : Ảnh đăng trên này đã được crop chứ có điên mới upload ảnh gốc, nên nếu muốn sưu tầm ảnh gốc của mỗi kỳ Megami xuất bản, có thể liên hệ với tớ. [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/megami-260.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
+					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/megami-260.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Megami Magazine&#160;(メガミマガジン,&#160;Megami Magajin) là một tạp chí hàng tháng của Nhật Bản. Megami tập trung chủ yếu vào các nhân vật bishoujo từ anime đang cống chiếu hoặc từ các trò chơi console, với rất nhiều posters, pinups hoặc hình ảnh với độ phân giải rất cao, thường thường vào khoảng 4000 x 6000px hoặc 6000 x 9000px. Và đây là volume kì này. Lưu ý : Ảnh đăng trên này đã được crop chứ có điên mới upload ảnh gốc, nên nếu muốn sưu tầm ảnh gốc của mỗi kỳ Megami xuất bản, có thể liên hệ với tớ. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/megami-260.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
 <p><strong>Megami Magazine</strong>&nbsp;(メガミマガジン,&nbsp;<em>Megami Magajin</em>)  là một tạp chí hàng tháng của Nhật Bản. Megami tập trung chủ yếu vào các nhân vật bishoujo từ anime đang cống chiếu hoặc từ các trò chơi console, với rất nhiều posters, pinups hoặc hình ảnh với độ phân giải rất cao, thường thường vào khoảng 4000 x 6000px hoặc 6000 x 9000px.</p>
 
 
@@ -228,104 +228,104 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="666" height="842" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/image-16.png" alt="" class="wp-image-2213"/><figcaption>Cover</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="666" height="842" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/image-16.png" alt="" class="wp-image-2213"/><figcaption>Cover</figcaption></figure></div>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/megami-260-01.jpg" alt="" class="wp-image-2195"/><figcaption>Yarandrala &#8211; Banished from the Hero&#8217;s Party, I Decided to Live a Quiet Life in the Countryside</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/megami-260-01.jpg" alt="" class="wp-image-2195"/><figcaption>Yarandrala &#8211; Banished from the Hero&#8217;s Party, I Decided to Live a Quiet Life in the Countryside</figcaption></figure></div>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/megami-260-02.jpg" alt="" class="wp-image-2196"/><figcaption>Shouko &amp; Otori &#8211; Komi Can&#8217;t Communicate</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/megami-260-02.jpg" alt="" class="wp-image-2196"/><figcaption>Shouko &amp; Otori &#8211; Komi Can&#8217;t Communicate</figcaption></figure></div>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/megami-260-03.jpg" alt="" class="wp-image-2197"/><figcaption>Kaori &amp; Shizuku &#8211; &#8220;Arifureta: From Common Job Class to the Strongest in the World 2nd Season&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/megami-260-03.jpg" alt="" class="wp-image-2197"/><figcaption>Kaori &amp; Shizuku &#8211; &#8220;Arifureta: From Common Job Class to the Strongest in the World 2nd Season&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/megami-260-04.jpg" alt="" class="wp-image-2198"/><figcaption>Neneko &#8211; &#8220;World&#8217;s End Harem&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/megami-260-04.jpg" alt="" class="wp-image-2198"/><figcaption>Neneko &#8211; &#8220;World&#8217;s End Harem&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/megami-260-05.jpg" alt="" class="wp-image-2199"/><figcaption>Madoka &#8211; &#8220;Magia Record: Puella Magi Madoka Magica Side Story Season 2 &#8211; The Eve of Awakening&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/megami-260-05.jpg" alt="" class="wp-image-2199"/><figcaption>Madoka &#8211; &#8220;Magia Record: Puella Magi Madoka Magica Side Story Season 2 &#8211; The Eve of Awakening&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/megami-260-06.jpg" alt="" class="wp-image-2200"/><figcaption>Kokona &#8211; &#8220;Encouragement of Climb: Next Summit&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/megami-260-06.jpg" alt="" class="wp-image-2200"/><figcaption>Kokona &#8211; &#8220;Encouragement of Climb: Next Summit&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/megami-260-07.jpg" alt="" class="wp-image-2201"/><figcaption>Margarette &amp; Alice &#8211; &#8220;Restaurant to Another World 2&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/megami-260-07.jpg" alt="" class="wp-image-2201"/><figcaption>Margarette &amp; Alice &#8211; &#8220;Restaurant to Another World 2&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/megami-260-08.jpg" alt="" class="wp-image-2202"/><figcaption>Rin, Yuki &amp; Misa &#8211; &#8220;Rumble Garanndoll&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/megami-260-08.jpg" alt="" class="wp-image-2202"/><figcaption>Rin, Yuki &amp; Misa &#8211; &#8220;Rumble Garanndoll&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/megami-260-09.jpg" alt="" class="wp-image-2203"/><figcaption>Roxy &#8211; &#8220;Mushoku Tensei&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/megami-260-09.jpg" alt="" class="wp-image-2203"/><figcaption>Roxy &#8211; &#8220;Mushoku Tensei&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/megami-260-10.jpg" alt="" class="wp-image-2204"/><figcaption>Tarte &amp; Maha &#8211; &#8220;The World&#8217;s Finest Assassin Gets Reincarnated in Another World as an Aristocrat&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/megami-260-10.jpg" alt="" class="wp-image-2204"/><figcaption>Tarte &amp; Maha &#8211; &#8220;The World&#8217;s Finest Assassin Gets Reincarnated in Another World as an Aristocrat&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/megami-260-11.jpg" alt="" class="wp-image-2205"/><figcaption>Itsuki &#8211; &#8220;The Quintessential Quintuplets&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/megami-260-11.jpg" alt="" class="wp-image-2205"/><figcaption>Itsuki &#8211; &#8220;The Quintessential Quintuplets&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/megami-260-12.jpg" alt="" class="wp-image-2206"/><figcaption>Meiya &#8211; &#8220;Muv-Luv Alternative&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/megami-260-12.jpg" alt="" class="wp-image-2206"/><figcaption>Meiya &#8211; &#8220;Muv-Luv Alternative&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/megami-260-13.jpg" alt="" class="wp-image-2207"/><figcaption>Yuu &#8211; &#8220;Puraore! Pride of Orange&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/megami-260-13.jpg" alt="" class="wp-image-2207"/><figcaption>Yuu &#8211; &#8220;Puraore! Pride of Orange&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/megami-260-14.jpg" alt="" class="wp-image-2208"/><figcaption>Karin &amp; Tsukimi &#8211; &#8220;The Aquatope on White Sand&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/megami-260-14.jpg" alt="" class="wp-image-2208"/><figcaption>Karin &amp; Tsukimi &#8211; &#8220;The Aquatope on White Sand&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/megami-260-15.jpg" alt="" class="wp-image-2209"/><figcaption>Irina &#8211; &#8220;Irina: The Vampire Cosmonaut&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/megami-260-15.jpg" alt="" class="wp-image-2209"/><figcaption>Irina &#8211; &#8220;Irina: The Vampire Cosmonaut&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/megami-260-16.jpg" alt="" class="wp-image-2210"/><figcaption>Frederica &#8211; &#8220;86 Eighty-Six&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/megami-260-16.jpg" alt="" class="wp-image-2210"/><figcaption>Frederica &#8211; &#8220;86 Eighty-Six&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/megami-260-17.jpg" alt="" class="wp-image-2211"/><figcaption>Shuusui &amp; Akari &#8211; &#8220;Can I Make Your Ears Happy in 180 Seconds?&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1111" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/megami-260-17.jpg" alt="" class="wp-image-2211"/><figcaption>Shuusui &amp; Akari &#8211; &#8220;Can I Make Your Ears Happy in 180 Seconds?&#8221;</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1146" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/017.jpg" alt="" class="wp-image-2233"/><figcaption>Girls und Panzer das Finale</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="768" height="1146" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/017.jpg" alt="" class="wp-image-2233"/><figcaption>Girls und Panzer das Finale</figcaption></figure>
 
 
 
 <h5 class="has-text-align-center">&#8211; Hết &#8211;</h5>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/11/30/megami-magazine-so-260-2022-01/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.vn/2021/11/30/megami-magazine-so-260-2022-01/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>2022 Calendar Wibu Edition</title>
-		<link>https://alonelycomet.meoki.net/2021/11/18/2022-wibu-calendar-edition/</link>
-					<comments>https://alonelycomet.meoki.net/2021/11/18/2022-wibu-calendar-edition/#respond</comments>
+		<link>https://alonelycomet.meoki.vn/2021/11/18/2022-wibu-calendar-edition/</link>
+					<comments>https://alonelycomet.meoki.vn/2021/11/18/2022-wibu-calendar-edition/#respond</comments>
 		
 		<dc:creator><![CDATA[Meoki]]></dc:creator>
 		<pubDate>Thu, 18 Nov 2021 09:12:22 +0000</pubDate>
 				<category><![CDATA[Sharing]]></category>
 		<category><![CDATA[sharing]]></category>
 		<category><![CDATA[wallpaper]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=2106</guid>
+		<guid isPermaLink="false">https://alonelycomet.meoki.vn/?p=2106</guid>
 
-					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/2022-cal.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Hiiii xin chào&#8230; Bây giờ là gần cuối tháng 11 rồi, sắp qua năm 2022 rồi. Và đây là bộ lịch năm mới 2022 mình chuẩn bị. Thật ra thì khoe lịch với khoe ảnh chả khác gì nhau, chẳng qua lịch thì có thêm bộ số thôi haha. Một số lưu ý : Mình đã làm sẵn CMYK color rồi, có thể đem đi in luôn cũng được nhaa. Ảnh gốc từ Megami Magazine, mình có đính kèm trong folder. À trừ ảnh Komi-san, album cutscene của Komi-san mình đã chia sẻ ở Nhật Hoạ Kỳ Thư &#8211; Nhị [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/2022-cal.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
+					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/2022-cal.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Hiiii xin chào&#8230; Bây giờ là gần cuối tháng 11 rồi, sắp qua năm 2022 rồi. Và đây là bộ lịch năm mới 2022 mình chuẩn bị. Thật ra thì khoe lịch với khoe ảnh chả khác gì nhau, chẳng qua lịch thì có thêm bộ số thôi haha. Một số lưu ý : Mình đã làm sẵn CMYK color rồi, có thể đem đi in luôn cũng được nhaa. Ảnh gốc từ Megami Magazine, mình có đính kèm trong folder. À trừ ảnh Komi-san, album cutscene của Komi-san mình đã chia sẻ ở Nhật Hoạ Kỳ Thư &#8211; Nhị [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/2022-cal.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
 <p>Hiiii xin chào&#8230;</p>
 
 
@@ -413,25 +413,25 @@
 <h6>Link download : <a href="https://drive.google.com/drive/folders/1FSq4J8tZl9vUjyUB5_AV3lvG9YwnEJai?usp=sharing" data-type="URL" data-id="https://drive.google.com/drive/folders/1FSq4J8tZl9vUjyUB5_AV3lvG9YwnEJai?usp=sharing">https://drive.google.com/drive/folders/1FSq4J8tZl9vUjyUB5_AV3lvG9YwnEJai?usp=sharing</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/11/18/2022-wibu-calendar-edition/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.vn/2021/11/18/2022-wibu-calendar-edition/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>ノーゲーム・ノーライフ 榎宮祐 Art Works</title>
-		<link>https://alonelycomet.meoki.net/2021/11/14/no-game-no-life-yuu-kamiya-art-works/</link>
-					<comments>https://alonelycomet.meoki.net/2021/11/14/no-game-no-life-yuu-kamiya-art-works/#respond</comments>
+		<link>https://alonelycomet.meoki.vn/2021/11/14/no-game-no-life-yuu-kamiya-art-works/</link>
+					<comments>https://alonelycomet.meoki.vn/2021/11/14/no-game-no-life-yuu-kamiya-art-works/#respond</comments>
 		
 		<dc:creator><![CDATA[Meoki]]></dc:creator>
 		<pubDate>Sun, 14 Nov 2021 14:03:30 +0000</pubDate>
 				<category><![CDATA[Sharing]]></category>
 		<category><![CDATA[sharing]]></category>
 		<category><![CDATA[wallpaper]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=2066</guid>
+		<guid isPermaLink="false">https://alonelycomet.meoki.vn/?p=2066</guid>
 
-					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/ngnl-artworks.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Ngồi dọn dẹp hang ổ thấy cuốn artbook đỉnh vl đỉnh nên share lại&#8230; Cuốn này từ 2019. Thông tin về nó có thể xem thêm tại đây : https://www.kadokawa.co.jp/product/321812000135 Tên artbook : ノーゲーム・ノーライフ 榎宮祐 Art WorksPhiên dịch : No Game No Life Art WorksTác giả : 榎宮祐 &#8211; Yuu KamiyaNgày xuất bản : 01/04/2019 . ノーゲーム・ノーライフ　榎宮祐 Art Works Mình chỉ trích lại vài art trong bộ này thôi ha]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/ngnl-artworks.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
+					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/ngnl-artworks.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Ngồi dọn dẹp hang ổ thấy cuốn artbook đỉnh vl đỉnh nên share lại&#8230; Cuốn này từ 2019. Thông tin về nó có thể xem thêm tại đây : https://www.kadokawa.co.jp/product/321812000135 Tên artbook : ノーゲーム・ノーライフ 榎宮祐 Art WorksPhiên dịch : No Game No Life Art WorksTác giả : 榎宮祐 &#8211; Yuu KamiyaNgày xuất bản : 01/04/2019 . ノーゲーム・ノーライフ　榎宮祐 Art Works Mình chỉ trích lại vài art trong bộ này thôi ha]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/ngnl-artworks.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
 <p>Ngồi dọn dẹp hang ổ thấy cuốn artbook đỉnh vl đỉnh nên share lại&#8230; Cuốn này từ 2019. Thông tin về nó  có thể xem thêm tại đây : <a href="https://www.kadokawa.co.jp/product/321812000135/" data-type="URL" data-id="https://www.kadokawa.co.jp/product/321812000135/"><strong>https://www.kadokawa.co.jp/product/321812000135</strong></a></p>
 
 
@@ -440,7 +440,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="923" height="564" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/image-7.png" alt="" class="wp-image-2073"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="923" height="564" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/image-7.png" alt="" class="wp-image-2073"/></figure>
 
 
 
@@ -523,15 +523,15 @@
 <figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/slytherinn/image/main/alonelycomet/nogame/20.jpg" alt=""/></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/11/14/no-game-no-life-yuu-kamiya-art-works/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.vn/2021/11/14/no-game-no-life-yuu-kamiya-art-works/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Megami Magazine Số 259 (2021-12)</title>
-		<link>https://alonelycomet.meoki.net/2021/10/31/megami-magazine-259-2021-12/</link>
-					<comments>https://alonelycomet.meoki.net/2021/10/31/megami-magazine-259-2021-12/#respond</comments>
+		<link>https://alonelycomet.meoki.vn/2021/10/31/megami-magazine-259-2021-12/</link>
+					<comments>https://alonelycomet.meoki.vn/2021/10/31/megami-magazine-259-2021-12/#respond</comments>
 		
 		<dc:creator><![CDATA[Meoki]]></dc:creator>
 		<pubDate>Sun, 31 Oct 2021 11:24:00 +0000</pubDate>
@@ -539,10 +539,10 @@
 		<category><![CDATA[megami]]></category>
 		<category><![CDATA[sharing]]></category>
 		<category><![CDATA[wallpaper]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=2024</guid>
+		<guid isPermaLink="false">https://alonelycomet.meoki.vn/?p=2024</guid>
 
-					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/megami-259.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Megami Magazine&#160;(メガミマガジン,&#160;Megami Magajin) là một tạp chí hàng tháng của Nhật Bản. Megami tập trung chủ yếu vào các nhân vật bishoujo từ anime đang cống chiếu hoặc từ các trò chơi console, với rất nhiều posters, pinups hoặc hình ảnh với độ phân giải rất cao, thường thường vào khoảng 4000 x 6000px hoặc 6000 x 9000px. Và đây là volume kì này. Lưu ý : Ảnh đăng trên này đã được crop chứ có điên mới upload ảnh gốc, nên nếu muốn sưu tầm ảnh gốc của mỗi kỳ Megami xuất bản, có thể liên hệ với tớ. [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/megami-259.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
+					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/megami-259.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Megami Magazine&#160;(メガミマガジン,&#160;Megami Magajin) là một tạp chí hàng tháng của Nhật Bản. Megami tập trung chủ yếu vào các nhân vật bishoujo từ anime đang cống chiếu hoặc từ các trò chơi console, với rất nhiều posters, pinups hoặc hình ảnh với độ phân giải rất cao, thường thường vào khoảng 4000 x 6000px hoặc 6000 x 9000px. Và đây là volume kì này. Lưu ý : Ảnh đăng trên này đã được crop chứ có điên mới upload ảnh gốc, nên nếu muốn sưu tầm ảnh gốc của mỗi kỳ Megami xuất bản, có thể liên hệ với tớ. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/megami-259.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
 <p><strong>Megami Magazine</strong>&nbsp;(メガミマガジン,&nbsp;<em>Megami Magajin</em>)  là một tạp chí hàng tháng của Nhật Bản. Megami tập trung chủ yếu vào các nhân vật bishoujo từ anime đang cống chiếu hoặc từ các trò chơi console, với rất nhiều posters, pinups hoặc hình ảnh với độ phân giải rất cao, thường thường vào khoảng 4000 x 6000px hoặc 6000 x 9000px.</p>
 
 
@@ -642,15 +642,15 @@
 <h5 class="has-text-align-center">&#8211; HẾT &#8211; </h5>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/10/31/megami-magazine-259-2021-12/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.vn/2021/10/31/megami-magazine-259-2021-12/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nhật Hoạ Kỳ Thư &#8211; Ngũ Quyển [Cấm Thư]</title>
-		<link>https://alonelycomet.meoki.net/2021/10/28/nhat-hoa-ky-thu-ngu-quyen-cam-thu/</link>
-					<comments>https://alonelycomet.meoki.net/2021/10/28/nhat-hoa-ky-thu-ngu-quyen-cam-thu/#respond</comments>
+		<link>https://alonelycomet.meoki.vn/2021/10/28/nhat-hoa-ky-thu-ngu-quyen-cam-thu/</link>
+					<comments>https://alonelycomet.meoki.vn/2021/10/28/nhat-hoa-ky-thu-ngu-quyen-cam-thu/#respond</comments>
 		
 		<dc:creator><![CDATA[Meoki]]></dc:creator>
 		<pubDate>Thu, 28 Oct 2021 03:09:53 +0000</pubDate>
@@ -658,10 +658,10 @@
 		<category><![CDATA[anime]]></category>
 		<category><![CDATA[sharing]]></category>
 		<category><![CDATA[wallpaper]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=1981</guid>
+		<guid isPermaLink="false">https://alonelycomet.meoki.vn/?p=1981</guid>
 
-					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/kythu-cam-thu.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Trước tiên gắn cái mác : CẢNH BÁO NỘI DUNG 18+ .Rồi giờ yên tâm, tui chỉ cảnh báo thôi chứ không có cấm haha. Tiên Thư, đây mới là chân chính Tiên Thư a&#8230; Ngũ Quyển tên gọi Cấm Thư, đúng, bởi vì nó cấm. Cấm ai? Cấm những ai dưới 18 tuổi. Đáng tiếc đa số người xem anime, manga đều nằm ở độ tuổi nó nên cuốn thiên thư này không dành cho những đối tượng này. Tất nhiên, mình ghi Cấm là một chuyện, còn thật sự cấm được hay không thì mình không quản được [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/kythu-cam-thu.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
+					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/kythu-cam-thu.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Trước tiên gắn cái mác : CẢNH BÁO NỘI DUNG 18+ .Rồi giờ yên tâm, tui chỉ cảnh báo thôi chứ không có cấm haha. Tiên Thư, đây mới là chân chính Tiên Thư a&#8230; Ngũ Quyển tên gọi Cấm Thư, đúng, bởi vì nó cấm. Cấm ai? Cấm những ai dưới 18 tuổi. Đáng tiếc đa số người xem anime, manga đều nằm ở độ tuổi nó nên cuốn thiên thư này không dành cho những đối tượng này. Tất nhiên, mình ghi Cấm là một chuyện, còn thật sự cấm được hay không thì mình không quản được [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/kythu-cam-thu.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
 <p>Trước tiên gắn cái mác :</p>
 
 
@@ -698,7 +698,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="960" height="294" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/image-8.png" alt="" class="wp-image-2100"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="960" height="294" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/image-8.png" alt="" class="wp-image-2100"/></figure>
 
 
 
@@ -726,7 +726,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="686" height="171" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/image.png" alt="" class="wp-image-1998"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="686" height="171" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/image.png" alt="" class="wp-image-1998"/></figure>
 
 
 
@@ -767,7 +767,7 @@ Bit depth                   : 8 bits
 
 
 
-<figure class="wp-block-image size-large"><img src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/image-1.jpg" alt=""/></figure>
+<figure class="wp-block-image size-large"><img src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/image-1.jpg" alt=""/></figure>
 
 
 
@@ -783,7 +783,7 @@ Bit depth                   : 8 bits
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="652" height="139" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/image-2.png" alt="" class="wp-image-2000"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="652" height="139" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/image-2.png" alt="" class="wp-image-2000"/></figure>
 
 
 
@@ -822,7 +822,7 @@ Bit depth                   : 8 bits
 
 
 
-<figure class="wp-block-image size-large"><img src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/image-3.jpg" alt=""/></figure>
+<figure class="wp-block-image size-large"><img src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/image-3.jpg" alt=""/></figure>
 
 
 
@@ -838,7 +838,7 @@ Bit depth                   : 8 bits
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/image-5.png" alt="" class="wp-image-2004" width="409" height="206"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/image-5.png" alt="" class="wp-image-2004" width="409" height="206"/></figure>
 
 
 
@@ -877,7 +877,7 @@ Bit depth                   : 8 bits
 
 
 
-<figure class="wp-block-image size-large"><img src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/image-4.jpg" alt=""/></figure>
+<figure class="wp-block-image size-large"><img src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/image-4.jpg" alt=""/></figure>
 
 
 
@@ -923,7 +923,7 @@ Bit depth                   : 8 bits
 
 
 
-<figure class="wp-block-image size-large"><img src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/image-6.jpg" alt=""/></figure>
+<figure class="wp-block-image size-large"><img src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/image-6.jpg" alt=""/></figure>
 
 
 
@@ -966,26 +966,26 @@ Bit depth                   : 8 bits
 <h6>Xem tất cả series tại đây: <a href="https://alonelycomet.meoki.net/nhat-hoa-ky-thu" data-type="URL" data-id="https://alonelycomet.meoki.net/nhat-hoa-ky-thu">https://alonelycomet.meoki.net/nhat-hoa-ky-thu</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/10/28/nhat-hoa-ky-thu-ngu-quyen-cam-thu/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.vn/2021/10/28/nhat-hoa-ky-thu-ngu-quyen-cam-thu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nhật Hoạ Kỳ Thư &#8211; Tứ Quyển [Minh Thư]</title>
-		<link>https://alonelycomet.meoki.net/2021/10/27/nhat-hoa-ky-thu-tu-quyen-minh-thu/</link>
-					<comments>https://alonelycomet.meoki.net/2021/10/27/nhat-hoa-ky-thu-tu-quyen-minh-thu/#respond</comments>
+		<link>https://alonelycomet.meoki.vn/2021/10/27/nhat-hoa-ky-thu-tu-quyen-minh-thu/</link>
+					<comments>https://alonelycomet.meoki.vn/2021/10/27/nhat-hoa-ky-thu-tu-quyen-minh-thu/#respond</comments>
 		
 		<dc:creator><![CDATA[Meoki]]></dc:creator>
 		<pubDate>Wed, 27 Oct 2021 06:28:13 +0000</pubDate>
 				<category><![CDATA[Sharing]]></category>
 		<category><![CDATA[novel]]></category>
 		<category><![CDATA[sharing]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=1947</guid>
+		<guid isPermaLink="false">https://alonelycomet.meoki.vn/?p=1947</guid>
 
-					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/lnovel.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Nhật Hoạ Kỳ Thư, quyển thứ tư, Minh Thư. À cái chữ Minh là chơi chữ thôi ạ 😗, còn chơi như nào thì&#8230; thôi. Đại khái Minh Thư sẽ chia sẻ tất tần tật về light novel. Tất nhiên đều là Engsub thôi, nhưng còn đỡ hơn bản raw&#8230; Đam mê thì cứ đọc luôn hoặc copy paste GG dịch mà đọc thôi haha. Tổng quan Light Novel có hai dạng như sau Một là Fantrans, tức là những fans tự dịch light novel. Thường những bản này không đảm bảo được chất lượng, mình có xem vài truyện [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/lnovel.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
-<blockquote class="wp-block-quote"><p>Nhật Hoạ Kỳ Thư, quyển thứ tư, <strong>Minh Thư</strong>. À cái chữ <strong>Minh </strong>là chơi chữ thôi ạ <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f617.png" alt="😗" class="wp-smiley" style="height: 1em; max-height: 1em;" />, còn chơi như nào thì&#8230; thôi. Đại khái Minh Thư sẽ chia sẻ tất tần tật về <strong>light novel</strong>. Tất nhiên đều là Engsub thôi, nhưng còn đỡ hơn bản raw&#8230;</p></blockquote>
+					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/lnovel.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Nhật Hoạ Kỳ Thư, quyển thứ tư, Minh Thư. À cái chữ Minh là chơi chữ thôi ạ 😗, còn chơi như nào thì&#8230; thôi. Đại khái Minh Thư sẽ chia sẻ tất tần tật về light novel. Tất nhiên đều là Engsub thôi, nhưng còn đỡ hơn bản raw&#8230; Đam mê thì cứ đọc luôn hoặc copy paste GG dịch mà đọc thôi haha. Tổng quan Light Novel có hai dạng như sau Một là Fantrans, tức là những fans tự dịch light novel. Thường những bản này không đảm bảo được chất lượng, mình có xem vài truyện [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/lnovel.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
+<blockquote class="wp-block-quote"><p>Nhật Hoạ Kỳ Thư, quyển thứ tư, <strong>Minh Thư</strong>. À cái chữ <strong>Minh </strong>là chơi chữ thôi ạ <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f617.png" alt="😗" class="wp-smiley" style="height: 1em; max-height: 1em;" />, còn chơi như nào thì&#8230; thôi. Đại khái Minh Thư sẽ chia sẻ tất tần tật về <strong>light novel</strong>. Tất nhiên đều là Engsub thôi, nhưng còn đỡ hơn bản raw&#8230;</p></blockquote>
 
 
 
@@ -1108,15 +1108,15 @@ Bit depth                   : 8 bits
 <p>Thôi, xin cảm ơn đã đọc&#8230;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/10/27/nhat-hoa-ky-thu-tu-quyen-minh-thu/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.vn/2021/10/27/nhat-hoa-ky-thu-tu-quyen-minh-thu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nhật Hoạ Kỳ Thư &#8211; Tam Quyển [Thời Thư]</title>
-		<link>https://alonelycomet.meoki.net/2021/10/26/nhat-hoa-ky-thu-tam-quyen-thoi-thu/</link>
-					<comments>https://alonelycomet.meoki.net/2021/10/26/nhat-hoa-ky-thu-tam-quyen-thoi-thu/#respond</comments>
+		<link>https://alonelycomet.meoki.vn/2021/10/26/nhat-hoa-ky-thu-tam-quyen-thoi-thu/</link>
+					<comments>https://alonelycomet.meoki.vn/2021/10/26/nhat-hoa-ky-thu-tam-quyen-thoi-thu/#respond</comments>
 		
 		<dc:creator><![CDATA[Meoki]]></dc:creator>
 		<pubDate>Tue, 26 Oct 2021 09:53:23 +0000</pubDate>
@@ -1125,10 +1125,10 @@ Bit depth                   : 8 bits
 		<category><![CDATA[manga]]></category>
 		<category><![CDATA[novel]]></category>
 		<category><![CDATA[sharing]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=1759</guid>
+		<guid isPermaLink="false">https://alonelycomet.meoki.vn/?p=1759</guid>
 
-					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/itachi.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Thời Thư &#8211; bức thiên thư lược sử về thời gian, ở đây dòng thời gian thuộc về vũ trụ Naruto. Cái này mình làm hồi còn ở bên NarutoMangaFans, rất vất vả a&#8230;  Bài viết có sử dụng các thông tin từ Manga, Anime, Databook, Fanbook, các bài viết trên Reddit, tiểu thuyết Itachi Shinden, Gaara Hiden và một số thông tin của studio Pierrot.  Dòng thời gian này sẽ trải dài từ khi tổ mẫu Kaguya xuất hiện đến trận quyết đấu của Kawaki và Boruto.  Một số thông tin hoàn toàn dựa vào tính toán cá nhân [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/itachi.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
+					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/itachi.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Thời Thư &#8211; bức thiên thư lược sử về thời gian, ở đây dòng thời gian thuộc về vũ trụ Naruto. Cái này mình làm hồi còn ở bên NarutoMangaFans, rất vất vả a&#8230;  Bài viết có sử dụng các thông tin từ Manga, Anime, Databook, Fanbook, các bài viết trên Reddit, tiểu thuyết Itachi Shinden, Gaara Hiden và một số thông tin của studio Pierrot.  Dòng thời gian này sẽ trải dài từ khi tổ mẫu Kaguya xuất hiện đến trận quyết đấu của Kawaki và Boruto.  Một số thông tin hoàn toàn dựa vào tính toán cá nhân [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/itachi.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
 <blockquote class="wp-block-quote"><p><strong>Thời Thư</strong> &#8211; bức thiên thư lược sử về thời gian, ở đây dòng thời gian thuộc về vũ trụ <strong>Naruto</strong>.</p><p>Cái này mình làm hồi còn ở bên <strong>NarutoMangaFans</strong>, rất vất vả a&#8230;</p></blockquote>
 
 
@@ -2032,15 +2032,15 @@ Bit depth                   : 8 bits
 <p><img loading="lazy" height="16" width="16" alt="&#x1f4cc;" src="https://www.facebook.com/images/emoji.php/v9/tac/1/16/1f4cc.png">&nbsp;Năm 36 aNb<br><img loading="lazy" height="16" width="16" alt="&#x25aa;" src="https://www.facebook.com/images/emoji.php/v9/t4c/1/16/25aa.png">&nbsp;Sớm nhất là ngày 15 tháng 3:<br><img loading="lazy" height="16" width="16" alt="&#x25ab;" src="https://www.facebook.com/images/emoji.php/v9/tcd/1/16/25ab.png">&nbsp;Uzumaki Boruto (16) đánh nhau với Kawaki.<br>(Theo Studio Pierrot , Boruto 16 tuổi khi anh chiến đấu với Kawaki.)</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/10/26/nhat-hoa-ky-thu-tam-quyen-thoi-thu/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.vn/2021/10/26/nhat-hoa-ky-thu-tam-quyen-thoi-thu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nhật Hoạ Kỳ Thư – Nhị Quyển [Hoạ Thư]</title>
-		<link>https://alonelycomet.meoki.net/2021/10/25/nhat-hoa-ky-thu-nhi-quyen-hoa-thu/</link>
-					<comments>https://alonelycomet.meoki.net/2021/10/25/nhat-hoa-ky-thu-nhi-quyen-hoa-thu/#respond</comments>
+		<link>https://alonelycomet.meoki.vn/2021/10/25/nhat-hoa-ky-thu-nhi-quyen-hoa-thu/</link>
+					<comments>https://alonelycomet.meoki.vn/2021/10/25/nhat-hoa-ky-thu-nhi-quyen-hoa-thu/#respond</comments>
 		
 		<dc:creator><![CDATA[Meoki]]></dc:creator>
 		<pubDate>Mon, 25 Oct 2021 01:20:00 +0000</pubDate>
@@ -2050,8 +2050,8 @@ Bit depth                   : 8 bits
 		<category><![CDATA[wallpaper]]></category>
 		<guid isPermaLink="false">https://atbs.bk-ninja.com/suga/?p=136</guid>
 
-					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2019/10/collection.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Nhật Hoạ Kỳ Thư, quyển thứ hai, Hoạ Thư, bao gồm tất cả mọi thứ liên quan như manga, artbook, hình ảnh, tranh vẽ, sách vở,&#8230; Sau đây là phần demo. Phần 1 &#8211; Cutscenes &#38; Animated Là một vài bộ sưu tập cutscenes mà mình có, hầu hết các ảnh đã được upsacle lên độ phân giải&#160;8K&#160;và&#160;16K. Ngoài ra còn có một album mấy ảnh động (video) rất chất&#8230; Link Flickr : https://flickr.com/photos/meokisama/albums Vol.1 Từ&#160;Kimi no Na wa.&#160;và&#160;Kotonoha no Ni wa.&#160;Tất cả ảnh của Vol.1 đều được upsacle lên đến&#160;16K. Vol.2 Từ&#160;Sayoasa&#160;(Chờ ngày lời hứa nở hoa)&#160;và&#160;Koe no Katachi&#160;(Dáng [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2019/10/collection.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
+					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2019/10/collection.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Nhật Hoạ Kỳ Thư, quyển thứ hai, Hoạ Thư, bao gồm tất cả mọi thứ liên quan như manga, artbook, hình ảnh, tranh vẽ, sách vở,&#8230; Sau đây là phần demo. Phần 1 &#8211; Cutscenes &#38; Animated Là một vài bộ sưu tập cutscenes mà mình có, hầu hết các ảnh đã được upsacle lên độ phân giải&#160;8K&#160;và&#160;16K. Ngoài ra còn có một album mấy ảnh động (video) rất chất&#8230; Link Flickr : https://flickr.com/photos/meokisama/albums Vol.1 Từ&#160;Kimi no Na wa.&#160;và&#160;Kotonoha no Ni wa.&#160;Tất cả ảnh của Vol.1 đều được upsacle lên đến&#160;16K. Vol.2 Từ&#160;Sayoasa&#160;(Chờ ngày lời hứa nở hoa)&#160;và&#160;Koe no Katachi&#160;(Dáng [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2019/10/collection.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
 <p></p>
 
 
@@ -2178,7 +2178,7 @@ Bit depth                   : 8 bits
 
 
 
-<p>Bộ sưu tập các title anime dưới định dạng <strong>.ICO</strong> để làm icon cho folder nhìn cho đẹp <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f602.png" alt="😂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Bộ sưu tập các title anime dưới định dạng <strong>.ICO</strong> để làm icon cho folder nhìn cho đẹp <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f602.png" alt="😂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -2282,7 +2282,7 @@ Bit depth                   : 8 bits
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="598" height="1901" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/naruto-color.png" alt="" class="wp-image-1831"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="598" height="1901" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/naruto-color.png" alt="" class="wp-image-1831"/></figure>
 
 
 
@@ -2294,7 +2294,7 @@ Bit depth                   : 8 bits
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="630" height="1502" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/naruto-book.png" alt="" class="wp-image-1832"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="630" height="1502" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/naruto-book.png" alt="" class="wp-image-1832"/></figure>
 
 
 
@@ -2531,7 +2531,7 @@ Bit depth                   : 8 bits
 </div></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/10/25/nhat-hoa-ky-thu-nhi-quyen-hoa-thu/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.vn/2021/10/25/nhat-hoa-ky-thu-nhi-quyen-hoa-thu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

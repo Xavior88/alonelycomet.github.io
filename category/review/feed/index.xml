@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Anime Review &#8211; A Lonely Comet</title>
-	<atom:link href="https://alonelycomet.meoki.net/category/review/feed/" rel="self" type="application/rss+xml" />
-	<link>https://alonelycomet.meoki.net</link>
+	<atom:link href="https://alonelycomet.meoki.vn/category/review/feed/" rel="self" type="application/rss+xml" />
+	<link>https://alonelycomet.meoki.vn</link>
 	<description>An Anime Blog &#124; Empire of Dreamers</description>
 	<lastBuildDate>Wed, 19 Jan 2022 13:59:31 +0000</lastBuildDate>
 	<language>vi</language>
@@ -18,29 +18,29 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9</generator>
+	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://alonelycomet.meoki.net/wp-content/uploads/2021/12/cropped-rounded-32x32.png</url>
+	<url>https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/cropped-rounded-32x32.png</url>
 	<title>Anime Review &#8211; A Lonely Comet</title>
-	<link>https://alonelycomet.meoki.net</link>
+	<link>https://alonelycomet.meoki.vn</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Ý Nghĩa Tựa Đề Hyouka!</title>
-		<link>https://alonelycomet.meoki.net/2022/01/17/y-nghia-tua-de-hyouka/</link>
-					<comments>https://alonelycomet.meoki.net/2022/01/17/y-nghia-tua-de-hyouka/#respond</comments>
+		<link>https://alonelycomet.meoki.vn/2022/01/17/y-nghia-tua-de-hyouka/</link>
+					<comments>https://alonelycomet.meoki.vn/2022/01/17/y-nghia-tua-de-hyouka/#respond</comments>
 		
 		<dc:creator><![CDATA[v4v]]></dc:creator>
 		<pubDate>Mon, 17 Jan 2022 13:19:00 +0000</pubDate>
 				<category><![CDATA[Anime Review]]></category>
 		<category><![CDATA[analysis]]></category>
 		<category><![CDATA[anime]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=2389</guid>
+		<guid isPermaLink="false">https://alonelycomet.meoki.vn/?p=2389</guid>
 
-					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2022/01/hyouka-title.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Hyouka NHẠT! Chỉ được cái art gánh! Thỉnh thoảng lướt fb thấy những bình luận này mà mình trầm cảm thật sự. Hyouka cho đến hiện tại vẫn là một trong những tuyệt tác của Kyoto Animation mình đánh giá khá cao. Ừ thì phần hình ảnh họ có gánh thật, nhưng không chỉ riêng về chất art mà còn về nghệ thuật hình ảnh, là những chi tiết ẩn dụ, tượng hình được lồng ghép khéo léo vào trong tác phẩm, phác họa được cái tài và nét tinh tế về mặt nội dung của tác giả Honobu Yonezawa. [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2022/01/hyouka-title.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
+					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2022/01/hyouka-title.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Hyouka NHẠT! Chỉ được cái art gánh! Thỉnh thoảng lướt fb thấy những bình luận này mà mình trầm cảm thật sự. Hyouka cho đến hiện tại vẫn là một trong những tuyệt tác của Kyoto Animation mình đánh giá khá cao. Ừ thì phần hình ảnh họ có gánh thật, nhưng không chỉ riêng về chất art mà còn về nghệ thuật hình ảnh, là những chi tiết ẩn dụ, tượng hình được lồng ghép khéo léo vào trong tác phẩm, phác họa được cái tài và nét tinh tế về mặt nội dung của tác giả Honobu Yonezawa. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2022/01/hyouka-title.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
 <blockquote class="wp-block-quote"><p>Hyouka NHẠT! Chỉ được cái art gánh!</p></blockquote>
 
 
@@ -116,25 +116,25 @@
 <h6>Link bài viết: <a href="https://facebook.com/alonelycomet/posts/309174304556629" data-type="URL" data-id="https://facebook.com/alonelycomet/posts/309174304556629">https://facebook.com/alonelycomet/posts/309174304556629</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2022/01/17/y-nghia-tua-de-hyouka/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.vn/2022/01/17/y-nghia-tua-de-hyouka/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ryuu to Sobakasu no Hime &#8211; Tuyệt Vời Nhưng Quá Tham Vọng!</title>
-		<link>https://alonelycomet.meoki.net/2022/01/10/ryuu-to-sobakasu-no-hime-tuyet-voi-nhung-qua-tham-vong/</link>
-					<comments>https://alonelycomet.meoki.net/2022/01/10/ryuu-to-sobakasu-no-hime-tuyet-voi-nhung-qua-tham-vong/#respond</comments>
+		<link>https://alonelycomet.meoki.vn/2022/01/10/ryuu-to-sobakasu-no-hime-tuyet-voi-nhung-qua-tham-vong/</link>
+					<comments>https://alonelycomet.meoki.vn/2022/01/10/ryuu-to-sobakasu-no-hime-tuyet-voi-nhung-qua-tham-vong/#respond</comments>
 		
 		<dc:creator><![CDATA[vivu]]></dc:creator>
 		<pubDate>Mon, 10 Jan 2022 13:48:00 +0000</pubDate>
 				<category><![CDATA[Anime Review]]></category>
 		<category><![CDATA[analysis]]></category>
 		<category><![CDATA[anime]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=2399</guid>
+		<guid isPermaLink="false">https://alonelycomet.meoki.vn/?p=2399</guid>
 
-					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2022/01/Ryuu.to_.Sobakasu.no_.Hime_.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Belle : Ryuu to Sobakasu no Hime (Belle : Rồng và công chúa tàn nhang) là sản phẩm movie anime mới nhất của đạo diễn Hosoda Mamoru. Bộ phim được công chiếu vào nửa cuối năm 2021 và được giới phê bình đánh giá khá cao. Mình không được xem bộ này tại rạp, nhưng cũng đã có những trải nghiệm rất ổn. Nói qua một chút về quá trình làm phim, Belle : Ryuu to Sobakasu no Hime (gọi tắt là BELLE) là dự án được đạo diễn Hosoda thực hiện trong 3 năm kể từ “Mirai no mirai”. [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2022/01/Ryuu.to_.Sobakasu.no_.Hime_.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
+					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2022/01/Ryuu.to_.Sobakasu.no_.Hime_.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Belle : Ryuu to Sobakasu no Hime (Belle : Rồng và công chúa tàn nhang) là sản phẩm movie anime mới nhất của đạo diễn Hosoda Mamoru. Bộ phim được công chiếu vào nửa cuối năm 2021 và được giới phê bình đánh giá khá cao. Mình không được xem bộ này tại rạp, nhưng cũng đã có những trải nghiệm rất ổn. Nói qua một chút về quá trình làm phim, Belle : Ryuu to Sobakasu no Hime (gọi tắt là BELLE) là dự án được đạo diễn Hosoda thực hiện trong 3 năm kể từ “Mirai no mirai”. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2022/01/Ryuu.to_.Sobakasu.no_.Hime_.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
 <p>Belle : Ryuu to Sobakasu no Hime (Belle : Rồng và công chúa tàn nhang) là sản phẩm movie anime mới nhất của đạo diễn Hosoda Mamoru. Bộ phim được công chiếu vào nửa cuối năm 2021 và được giới phê bình đánh giá khá cao. Mình không được xem bộ này tại rạp, nhưng cũng đã có những trải nghiệm rất ổn.</p>
 
 
@@ -246,15 +246,15 @@
 <h6>Link bài viết: <a href="https://facebook.com/alonelycomet/posts/305063744967685" data-type="URL" data-id="https://facebook.com/alonelycomet/posts/305063744967685">https://facebook.com/alonelycomet/posts/305063744967685</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2022/01/10/ryuu-to-sobakasu-no-hime-tuyet-voi-nhung-qua-tham-vong/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.vn/2022/01/10/ryuu-to-sobakasu-no-hime-tuyet-voi-nhung-qua-tham-vong/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Eiga Daisuki Pompo-san – Tuyệt Tác Anime Điện Ảnh Dành Cho Những Tín Đồ Ghiền Phim</title>
-		<link>https://alonelycomet.meoki.net/2022/01/07/eiga-daisuki-pompo-san-tuyet-tac-anime-dien-anh-danh-cho-nhung-tin-do-ghien-phim/</link>
-					<comments>https://alonelycomet.meoki.net/2022/01/07/eiga-daisuki-pompo-san-tuyet-tac-anime-dien-anh-danh-cho-nhung-tin-do-ghien-phim/#respond</comments>
+		<link>https://alonelycomet.meoki.vn/2022/01/07/eiga-daisuki-pompo-san-tuyet-tac-anime-dien-anh-danh-cho-nhung-tin-do-ghien-phim/</link>
+					<comments>https://alonelycomet.meoki.vn/2022/01/07/eiga-daisuki-pompo-san-tuyet-tac-anime-dien-anh-danh-cho-nhung-tin-do-ghien-phim/#respond</comments>
 		
 		<dc:creator><![CDATA[v4v]]></dc:creator>
 		<pubDate>Fri, 07 Jan 2022 13:54:00 +0000</pubDate>
@@ -262,10 +262,10 @@
 		<category><![CDATA[analysis]]></category>
 		<category><![CDATA[anime]]></category>
 		<category><![CDATA[commentary]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=2402</guid>
+		<guid isPermaLink="false">https://alonelycomet.meoki.vn/?p=2402</guid>
 
-					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2022/01/eiga-daisuki-pompo.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Đây có lẽ là tác phẩm anime điện ảnh làm mình bất ngờ nhất trong những năm trở lại đây vì sự hàm chứa của rất nhiều thông điệp ý nghĩa và thú vị, lẫn niềm đam mê nghệ thuật từ người thực hiện gửi gắm vào đứa con tin thần này. Và quan trong nhất, đây là một bộ phim rất vui! Bài viết khá dài, đi sâu vào phân tích nhiều khía cạnh trong tác phẩm, chia thành 4 mục nhỏ. Nếu bạn ngại bài dài, và chỉ muốn chút ít thông tin để giúp trải nghiệm bộ [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2022/01/eiga-daisuki-pompo.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
+					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2022/01/eiga-daisuki-pompo.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Đây có lẽ là tác phẩm anime điện ảnh làm mình bất ngờ nhất trong những năm trở lại đây vì sự hàm chứa của rất nhiều thông điệp ý nghĩa và thú vị, lẫn niềm đam mê nghệ thuật từ người thực hiện gửi gắm vào đứa con tin thần này. Và quan trong nhất, đây là một bộ phim rất vui! Bài viết khá dài, đi sâu vào phân tích nhiều khía cạnh trong tác phẩm, chia thành 4 mục nhỏ. Nếu bạn ngại bài dài, và chỉ muốn chút ít thông tin để giúp trải nghiệm bộ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2022/01/eiga-daisuki-pompo.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
 <p>Đây có lẽ là tác phẩm anime điện ảnh làm mình bất ngờ nhất trong những năm trở lại đây vì sự hàm chứa của rất nhiều thông điệp ý nghĩa và thú vị, lẫn niềm đam mê nghệ thuật từ người thực hiện gửi gắm vào đứa con tin thần này. Và quan trong nhất, đây là một bộ phim rất vui!</p>
 
 
@@ -557,15 +557,15 @@
 <h6>Link bài viết: <a href="https://facebook.com/alonelycomet/posts/303233385150721" data-type="URL" data-id="https://facebook.com/alonelycomet/posts/303233385150721">https://facebook.com/alonelycomet/posts/303233385150721</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2022/01/07/eiga-daisuki-pompo-san-tuyet-tac-anime-dien-anh-danh-cho-nhung-tin-do-ghien-phim/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.vn/2022/01/07/eiga-daisuki-pompo-san-tuyet-tac-anime-dien-anh-danh-cho-nhung-tin-do-ghien-phim/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Lonely Comet &#8211; 2021 Anime Awards</title>
-		<link>https://alonelycomet.meoki.net/2021/12/29/a-lonely-comet-2021-anime-awards/</link>
-					<comments>https://alonelycomet.meoki.net/2021/12/29/a-lonely-comet-2021-anime-awards/#respond</comments>
+		<link>https://alonelycomet.meoki.vn/2021/12/29/a-lonely-comet-2021-anime-awards/</link>
+					<comments>https://alonelycomet.meoki.vn/2021/12/29/a-lonely-comet-2021-anime-awards/#respond</comments>
 		
 		<dc:creator><![CDATA[v4v]]></dc:creator>
 		<pubDate>Wed, 29 Dec 2021 07:38:00 +0000</pubDate>
@@ -574,10 +574,10 @@
 		<category><![CDATA[anime]]></category>
 		<category><![CDATA[commentary]]></category>
 		<category><![CDATA[ranking]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=2322</guid>
+		<guid isPermaLink="false">https://alonelycomet.meoki.vn/?p=2322</guid>
 
-					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/alc-awards.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Cuối năm rồi nên nhóm ad tụi mình (bao gồm 3 bạn ad viết chính là v4v, suba và vivu) quyết định thực hiện một danh sách của những tác phẩm mà tụi mình cho là xuất sắc nhất trong năm theo từng hạng mục. Giải gà nhà thôi nha. Trước mắt sẽ có 12 hạng mục, tụi mình sẽ đăng dần đều từ cuối tuần này cho đến trong 2 tuần nữa. Danh sách các hạng mục như sau (không theo thứ tự, chỉ có 2 giải cuối cùng là sẽ đăng cuối). Có thể click vào từng tiêu [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/alc-awards.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
+					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/alc-awards.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Cuối năm rồi nên nhóm ad tụi mình (bao gồm 3 bạn ad viết chính là v4v, suba và vivu) quyết định thực hiện một danh sách của những tác phẩm mà tụi mình cho là xuất sắc nhất trong năm theo từng hạng mục. Giải gà nhà thôi nha. Trước mắt sẽ có 12 hạng mục, tụi mình sẽ đăng dần đều từ cuối tuần này cho đến trong 2 tuần nữa. Danh sách các hạng mục như sau (không theo thứ tự, chỉ có 2 giải cuối cùng là sẽ đăng cuối). Có thể click vào từng tiêu [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/alc-awards.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
 <p>Cuối năm rồi nên nhóm ad tụi mình (bao gồm 3 bạn ad viết chính là v4v, suba và vivu) quyết định thực hiện một danh sách của những tác phẩm mà tụi mình cho là xuất sắc nhất trong năm theo từng hạng mục. Giải gà nhà thôi nha.</p>
 
 
@@ -662,7 +662,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="1200" height="1347" src="https://alonelycomet.meoki.net/wp-content/uploads/2022/01/270149533_299595548847838_1667363537282895091_n.jpg" alt="" class="wp-image-2375"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="1200" height="1347" src="https://alonelycomet.meoki.vn/wp-content/uploads/2022/01/270149533_299595548847838_1667363537282895091_n.jpg" alt="" class="wp-image-2375"/></figure></div>
 
 
 
@@ -786,7 +786,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="1200" height="1347" src="https://alonelycomet.meoki.net/wp-content/uploads/2022/01/270099142_297625355711524_4462818457484813156_n.jpg" alt="" class="wp-image-2371"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="1200" height="1347" src="https://alonelycomet.meoki.vn/wp-content/uploads/2022/01/270099142_297625355711524_4462818457484813156_n.jpg" alt="" class="wp-image-2371"/></figure></div>
 
 
 
@@ -866,7 +866,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="1347" src="https://alonelycomet.meoki.net/wp-content/uploads/2022/01/270267007_298832568924136_4672390238520352927_n.jpg" alt="" class="wp-image-2373"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="1347" src="https://alonelycomet.meoki.vn/wp-content/uploads/2022/01/270267007_298832568924136_4672390238520352927_n.jpg" alt="" class="wp-image-2373"/></figure>
 
 
 
@@ -954,7 +954,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="1347" src="https://alonelycomet.meoki.net/wp-content/uploads/2022/01/271751595_308161917991201_4116982167205312322_n.jpg" alt="" class="wp-image-2382"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="1347" src="https://alonelycomet.meoki.vn/wp-content/uploads/2022/01/271751595_308161917991201_4116982167205312322_n.jpg" alt="" class="wp-image-2382"/></figure>
 
 
 
@@ -1058,7 +1058,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1569" height="1347" src="https://alonelycomet.meoki.net/wp-content/uploads/2022/01/271190650_303832415090818_8042484908439130273_n.jpg" alt="" class="wp-image-2377"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1569" height="1347" src="https://alonelycomet.meoki.vn/wp-content/uploads/2022/01/271190650_303832415090818_8042484908439130273_n.jpg" alt="" class="wp-image-2377"/></figure>
 
 
 
@@ -1210,7 +1210,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1569" height="1347" src="https://alonelycomet.meoki.net/wp-content/uploads/2022/01/271153982_301355542005172_2321387349425588748_n.jpg" alt="" class="wp-image-2376"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1569" height="1347" src="https://alonelycomet.meoki.vn/wp-content/uploads/2022/01/271153982_301355542005172_2321387349425588748_n.jpg" alt="" class="wp-image-2376"/></figure>
 
 
 
@@ -1342,7 +1342,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="1347" src="https://alonelycomet.meoki.net/wp-content/uploads/2022/01/271818307_306943068113086_4653248018599341472_n.jpg" alt="" class="wp-image-2380"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="1347" src="https://alonelycomet.meoki.vn/wp-content/uploads/2022/01/271818307_306943068113086_4653248018599341472_n.jpg" alt="" class="wp-image-2380"/></figure>
 
 
 
@@ -1414,7 +1414,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="1347" src="https://alonelycomet.meoki.net/wp-content/uploads/2022/01/271334668_304460081694718_4816477073560746610_n.jpg" alt="" class="wp-image-2378"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="1347" src="https://alonelycomet.meoki.vn/wp-content/uploads/2022/01/271334668_304460081694718_4816477073560746610_n.jpg" alt="" class="wp-image-2378"/></figure>
 
 
 
@@ -1466,7 +1466,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="1347" src="https://alonelycomet.meoki.net/wp-content/uploads/2022/01/271709364_306279814846078_1974823561848025233_n.jpg" alt="" class="wp-image-2379"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="1347" src="https://alonelycomet.meoki.vn/wp-content/uploads/2022/01/271709364_306279814846078_1974823561848025233_n.jpg" alt="" class="wp-image-2379"/></figure>
 
 
 
@@ -1566,7 +1566,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1569" height="1347" src="https://alonelycomet.meoki.net/wp-content/uploads/2022/01/271705094_307552621385464_4827673051558726711_n.jpg" alt="" class="wp-image-2381"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1569" height="1347" src="https://alonelycomet.meoki.vn/wp-content/uploads/2022/01/271705094_307552621385464_4827673051558726711_n.jpg" alt="" class="wp-image-2381"/></figure>
 
 
 
@@ -1678,7 +1678,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="1347" src="https://alonelycomet.meoki.net/wp-content/uploads/2022/01/271707374_308775537929839_734172026881155356_n.jpg" alt="" class="wp-image-2383"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="1347" src="https://alonelycomet.meoki.vn/wp-content/uploads/2022/01/271707374_308775537929839_734172026881155356_n.jpg" alt="" class="wp-image-2383"/></figure>
 
 
 
@@ -1802,7 +1802,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1569" height="1347" src="https://alonelycomet.meoki.net/wp-content/uploads/2022/01/272154605_310041564469903_4249003345232399893_n.jpg" alt="" class="wp-image-2384"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1569" height="1347" src="https://alonelycomet.meoki.vn/wp-content/uploads/2022/01/272154605_310041564469903_4249003345232399893_n.jpg" alt="" class="wp-image-2384"/></figure>
 
 
 
@@ -1937,25 +1937,25 @@
 <h6>Link bài viết: <strong><a href="https://www.facebook.com/alonelycomet/posts/310044064469653">https://www.facebook.com/alonelycomet/posts/310044064469653</a></strong></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/12/29/a-lonely-comet-2021-anime-awards/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.vn/2021/12/29/a-lonely-comet-2021-anime-awards/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Kimetsu no Yaiba &#8211; Zankyou Sanka và Truyền Thuyết Bách Quỷ Dạ Hành</title>
-		<link>https://alonelycomet.meoki.net/2021/12/17/kimetsu-no-yaiba-zankyou-sanka-va-truyen-thuyet-bach-quy-da-hanh/</link>
-					<comments>https://alonelycomet.meoki.net/2021/12/17/kimetsu-no-yaiba-zankyou-sanka-va-truyen-thuyet-bach-quy-da-hanh/#respond</comments>
+		<link>https://alonelycomet.meoki.vn/2021/12/17/kimetsu-no-yaiba-zankyou-sanka-va-truyen-thuyet-bach-quy-da-hanh/</link>
+					<comments>https://alonelycomet.meoki.vn/2021/12/17/kimetsu-no-yaiba-zankyou-sanka-va-truyen-thuyet-bach-quy-da-hanh/#respond</comments>
 		
 		<dc:creator><![CDATA[vivu]]></dc:creator>
 		<pubDate>Fri, 17 Dec 2021 02:00:00 +0000</pubDate>
 				<category><![CDATA[Anime Review]]></category>
 		<category><![CDATA[analysis]]></category>
 		<category><![CDATA[anime]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=2289</guid>
+		<guid isPermaLink="false">https://alonelycomet.meoki.vn/?p=2289</guid>
 
-					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/muzan-bqdh.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Giới Thiệu Zankyou Sanka (残響散歌) – “Thánh ca vang vọng” của Aimer là OP đầu tiên của anime Kimetsu no Yaiba season 2 “Yuukakuhen”. Bài hát vừa được công bố MV chính thức vào khoảng 4 ngày trước và đã lập tức cho mình ấn tượng tuyệt vời. Không chỉ vì độ hyper và catchy của âm nhạc mang thương hiệu Aimer, mà còn do cái “hào nhoáng” và rực rỡ của hình ảnh. MV này vừa xây dựng nên một câu chuyện độc lập mang đậm nét văn hóa Nhật Bản và tư tưởng Thần đạo, lại có sự [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/muzan-bqdh.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
+					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/muzan-bqdh.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Giới Thiệu Zankyou Sanka (残響散歌) – “Thánh ca vang vọng” của Aimer là OP đầu tiên của anime Kimetsu no Yaiba season 2 “Yuukakuhen”. Bài hát vừa được công bố MV chính thức vào khoảng 4 ngày trước và đã lập tức cho mình ấn tượng tuyệt vời. Không chỉ vì độ hyper và catchy của âm nhạc mang thương hiệu Aimer, mà còn do cái “hào nhoáng” và rực rỡ của hình ảnh. MV này vừa xây dựng nên một câu chuyện độc lập mang đậm nét văn hóa Nhật Bản và tư tưởng Thần đạo, lại có sự [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/muzan-bqdh.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
 <h5>Giới Thiệu</h5>
 
 
@@ -2067,15 +2067,15 @@
 <h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/289964046477655" data-type="URL" data-id="https://facebook.com/alonelycomet/posts/289964046477655">https://facebook.com/alonelycomet/posts/289964046477655</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/12/17/kimetsu-no-yaiba-zankyou-sanka-va-truyen-thuyet-bach-quy-da-hanh/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.vn/2021/12/17/kimetsu-no-yaiba-zankyou-sanka-va-truyen-thuyet-bach-quy-da-hanh/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Mushoku Tensei &#8211; World Building Và Hệ Thống Sức Mạnh</title>
-		<link>https://alonelycomet.meoki.net/2021/12/12/mushoku-tensei-world-building-va-he-thong-suc-manh/</link>
-					<comments>https://alonelycomet.meoki.net/2021/12/12/mushoku-tensei-world-building-va-he-thong-suc-manh/#respond</comments>
+		<link>https://alonelycomet.meoki.vn/2021/12/12/mushoku-tensei-world-building-va-he-thong-suc-manh/</link>
+					<comments>https://alonelycomet.meoki.vn/2021/12/12/mushoku-tensei-world-building-va-he-thong-suc-manh/#respond</comments>
 		
 		<dc:creator><![CDATA[SUBA]]></dc:creator>
 		<pubDate>Sun, 12 Dec 2021 05:26:00 +0000</pubDate>
@@ -2083,10 +2083,10 @@
 		<category><![CDATA[analysis]]></category>
 		<category><![CDATA[anime]]></category>
 		<category><![CDATA[mushoku tensei]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=2257</guid>
+		<guid isPermaLink="false">https://alonelycomet.meoki.vn/?p=2257</guid>
 
-					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/wbuilding.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Trong thế giới của Mushoku tensei ta có 2 loại năng lực chính đó là ma thuật và kiếm thuật. Chia nhỏ hơn nữa thì trong ma thuật có 3 loại: ma thuật tấn công (sử dụng và kết hợp các nguyên tố như lửa, nước, đất và không khí), ma thuật điều trị (chữa lành) và ma thuật triệu hồi. Còn đối với kiếm thuật thì có 3 kiểu kiếm pháp: kiếm thần là trường phái chú trọng vào tấn công, ra đòn nhanh và mạnh; thủy thần chú trọng vào phòng thủ và phản đòn; còn trường phái [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/wbuilding.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
+					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/wbuilding.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Trong thế giới của Mushoku tensei ta có 2 loại năng lực chính đó là ma thuật và kiếm thuật. Chia nhỏ hơn nữa thì trong ma thuật có 3 loại: ma thuật tấn công (sử dụng và kết hợp các nguyên tố như lửa, nước, đất và không khí), ma thuật điều trị (chữa lành) và ma thuật triệu hồi. Còn đối với kiếm thuật thì có 3 kiểu kiếm pháp: kiếm thần là trường phái chú trọng vào tấn công, ra đòn nhanh và mạnh; thủy thần chú trọng vào phòng thủ và phản đòn; còn trường phái [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/wbuilding.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
 <p>Trong thế giới của Mushoku tensei ta có 2 loại năng lực chính đó là ma thuật và kiếm thuật. Chia nhỏ hơn nữa thì trong ma thuật có 3 loại: ma thuật tấn công (sử dụng và kết hợp các nguyên tố như lửa, nước, đất và không khí), ma thuật điều trị (chữa lành) và ma thuật triệu hồi. Còn đối với kiếm thuật thì có 3 kiểu kiếm pháp: kiếm thần là trường phái chú trọng vào tấn công, ra đòn nhanh và mạnh; thủy thần chú trọng vào phòng thủ và phản đòn; còn trường phái bắc thần thì chủ yếu là sự đa dụng, sử dụng nhiều loại chiêu trò khác nhau để có thể sống sót trong 1 trận chiến.</p>
 
 
@@ -2134,25 +2134,25 @@
 <h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/286840016790058" data-type="URL" data-id="https://facebook.com/alonelycomet/posts/286840016790058">https://facebook.com/alonelycomet/posts/286840016790058</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/12/12/mushoku-tensei-world-building-va-he-thong-suc-manh/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.vn/2021/12/12/mushoku-tensei-world-building-va-he-thong-suc-manh/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Toán Học Trong Puella Magi Madoka Magica &#8211; Tình Yêu Và Những Con Số (Part 2)</title>
-		<link>https://alonelycomet.meoki.net/2021/11/26/toan-hoc-trong-puella-magi-madoka-magica-rebellion-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so-part-2/</link>
-					<comments>https://alonelycomet.meoki.net/2021/11/26/toan-hoc-trong-puella-magi-madoka-magica-rebellion-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so-part-2/#respond</comments>
+		<link>https://alonelycomet.meoki.vn/2021/11/26/toan-hoc-trong-puella-magi-madoka-magica-rebellion-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so-part-2/</link>
+					<comments>https://alonelycomet.meoki.vn/2021/11/26/toan-hoc-trong-puella-magi-madoka-magica-rebellion-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so-part-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Kirihime]]></dc:creator>
 		<pubDate>Fri, 26 Nov 2021 13:48:14 +0000</pubDate>
 				<category><![CDATA[Anime Review]]></category>
 		<category><![CDATA[analysis]]></category>
 		<category><![CDATA[anime]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=2171</guid>
+		<guid isPermaLink="false">https://alonelycomet.meoki.vn/?p=2171</guid>
 
-					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/toan-hoc-puella-2.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Toán Học là một yếu tố tuy nhỏ nhưng được đầu tư rất kĩ trong series Madoka Magica, và truyền thống này tiếp tục được duy trì ở Movie 3: Rebellion, tập phim có thể nói là kết thúc của phần đầu tiên trong chương truyện của Madoka Magica. Xem lại P1 tại đây: url.meoki.net/RPXLo7 Khác với phần phim ngắn, những phương trình toán học giờ đây không chỉ được giải bởi mỗi Homura nữa, mà chỉ thoáng qua trong những bài giảng trên lớp. Đây có lẽ là vì ở đây, những phương trình lặp lại không thể hiện [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/toan-hoc-puella-2.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
+					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/toan-hoc-puella-2.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Toán Học là một yếu tố tuy nhỏ nhưng được đầu tư rất kĩ trong series Madoka Magica, và truyền thống này tiếp tục được duy trì ở Movie 3: Rebellion, tập phim có thể nói là kết thúc của phần đầu tiên trong chương truyện của Madoka Magica. Xem lại P1 tại đây: url.meoki.net/RPXLo7 Khác với phần phim ngắn, những phương trình toán học giờ đây không chỉ được giải bởi mỗi Homura nữa, mà chỉ thoáng qua trong những bài giảng trên lớp. Đây có lẽ là vì ở đây, những phương trình lặp lại không thể hiện [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/toan-hoc-puella-2.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
 <p>Toán Học là một yếu tố tuy nhỏ nhưng được đầu tư rất kĩ trong series Madoka Magica, và truyền thống này tiếp tục được duy trì ở <strong>Movie 3: Rebellion</strong>, tập phim có thể nói là kết thúc của phần đầu tiên trong chương truyện của Madoka Magica.</p>
 
 
@@ -2165,7 +2165,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="934" height="474" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/258188939_276779954462731_2226057633580206811_n.jpg" alt="" class="wp-image-2179"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="934" height="474" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/258188939_276779954462731_2226057633580206811_n.jpg" alt="" class="wp-image-2179"/></figure>
 
 
 
@@ -2264,25 +2264,25 @@
 <p>Cảm ơn đã đọc bài của mình và mong có thể gặp lại mọi người trong những bài phân tích tiếp theo.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/11/26/toan-hoc-trong-puella-magi-madoka-magica-rebellion-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so-part-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.vn/2021/11/26/toan-hoc-trong-puella-magi-madoka-magica-rebellion-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so-part-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Toán Học Trong Puella Magi Madoka Magica – Tình Yêu Và Những Con Số (Part 1)</title>
-		<link>https://alonelycomet.meoki.net/2021/11/25/toan-hoc-trong-puella-magi-madoka-magica-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so/</link>
-					<comments>https://alonelycomet.meoki.net/2021/11/25/toan-hoc-trong-puella-magi-madoka-magica-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so/#respond</comments>
+		<link>https://alonelycomet.meoki.vn/2021/11/25/toan-hoc-trong-puella-magi-madoka-magica-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so/</link>
+					<comments>https://alonelycomet.meoki.vn/2021/11/25/toan-hoc-trong-puella-magi-madoka-magica-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so/#respond</comments>
 		
 		<dc:creator><![CDATA[Kirihime]]></dc:creator>
 		<pubDate>Thu, 25 Nov 2021 13:33:00 +0000</pubDate>
 				<category><![CDATA[Anime Review]]></category>
 		<category><![CDATA[analysis]]></category>
 		<category><![CDATA[anime]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=2158</guid>
+		<guid isPermaLink="false">https://alonelycomet.meoki.vn/?p=2158</guid>
 
-					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/toan-hoc-puella-1.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Puella Magi Madoka Magica là một Anime có thể được liệt vào hàng classic, nhất là ở bên Nhật khi độ phủ sóng của bộ phim này rất lớn. Phim sử dụng một hướng tiếp cận khác với chủ đề đã quá đỗi nổi tiếng là Mahou Shoujo (Ma pháp Thiếu nữ), vẫn giữ những gì đặc trưng nhất của dòng phim nhưng lại lồng thêm những yếu tố tâm lý và nặng trừu tượng không dành cho trẻ em. Ngoài ra còn có 1 yếu tố nữa, một yếu tố phụ nhưng được đề cấp đến rất nhiều xuyên [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/toan-hoc-puella-1.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
+					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/toan-hoc-puella-1.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Puella Magi Madoka Magica là một Anime có thể được liệt vào hàng classic, nhất là ở bên Nhật khi độ phủ sóng của bộ phim này rất lớn. Phim sử dụng một hướng tiếp cận khác với chủ đề đã quá đỗi nổi tiếng là Mahou Shoujo (Ma pháp Thiếu nữ), vẫn giữ những gì đặc trưng nhất của dòng phim nhưng lại lồng thêm những yếu tố tâm lý và nặng trừu tượng không dành cho trẻ em. Ngoài ra còn có 1 yếu tố nữa, một yếu tố phụ nhưng được đề cấp đến rất nhiều xuyên [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/toan-hoc-puella-1.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
 <p>Puella Magi Madoka Magica là một Anime có thể được liệt vào hàng classic, nhất là ở bên Nhật khi độ phủ sóng của bộ phim này rất lớn. Phim sử dụng một hướng tiếp cận khác với chủ đề đã quá đỗi nổi tiếng là Mahou Shoujo (Ma pháp Thiếu nữ), vẫn giữ những gì đặc trưng nhất của dòng phim nhưng lại lồng thêm những yếu tố tâm lý và nặng trừu tượng không dành cho trẻ em.</p>
 
 
@@ -2303,7 +2303,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1074" height="602" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/image-9.png" alt="" class="wp-image-2160"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1074" height="602" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/image-9.png" alt="" class="wp-image-2160"/></figure>
 
 
 
@@ -2342,7 +2342,7 @@ Câu hỏi yêu cầu số dư r nằm giữa 0 và 13, từ đó suy ra r=13.</
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1072" height="599" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/image-10.png" alt="" class="wp-image-2161"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1072" height="599" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/image-10.png" alt="" class="wp-image-2161"/></figure>
 
 
 
@@ -2374,7 +2374,7 @@ Câu hỏi yêu cầu số dư r nằm giữa 0 và 13, từ đó suy ra r=13.</
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1060" height="758" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/image-11.png" alt="" class="wp-image-2162"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1060" height="758" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/image-11.png" alt="" class="wp-image-2162"/></figure>
 
 
 
@@ -2406,7 +2406,7 @@ Có hai nghiệm nguyên: (a, b) = (0,1) hoặc (a, b) = (2,11).</pre>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="705" height="573" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/image-12.png" alt="" class="wp-image-2163"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="705" height="573" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/image-12.png" alt="" class="wp-image-2163"/></figure></div>
 
 
 
@@ -2426,7 +2426,7 @@ Có hai nghiệm nguyên: (a, b) = (0,1) hoặc (a, b) = (2,11).</pre>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1231" height="691" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/image-13.png" alt="" class="wp-image-2164"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1231" height="691" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/image-13.png" alt="" class="wp-image-2164"/></figure>
 
 
 
@@ -2446,7 +2446,7 @@ Có hai nghiệm nguyên: (a, b) = (0,1) hoặc (a, b) = (2,11).</pre>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="964" height="542" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/image-14.png" alt="" class="wp-image-2165"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="964" height="542" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/image-14.png" alt="" class="wp-image-2165"/></figure>
 
 
 
@@ -2478,7 +2478,7 @@ Có hai nghiệm nguyên: (a, b) = (0,1) hoặc (a, b) = (2,11).</pre>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="911" height="494" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/image-15.png" alt="" class="wp-image-2166"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="911" height="494" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/image-15.png" alt="" class="wp-image-2166"/></figure>
 
 
 
@@ -2501,15 +2501,15 @@ Có hai nghiệm nguyên: (a, b) = (0,1) hoặc (a, b) = (2,11).</pre>
 <h6>Link bài viết gốc: <a href="https://facebook.com/alonelycomet/posts/276129434527783" data-type="URL" data-id="https://facebook.com/alonelycomet/posts/276129434527783">https://facebook.com/alonelycomet/posts/276129434527783</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/11/25/toan-hoc-trong-puella-magi-madoka-magica-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.vn/2021/11/25/toan-hoc-trong-puella-magi-madoka-magica-khi-tinh-yeu-duoc-chuyen-thanh-nhung-con-so/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Thích một nhân vật &#8220;đáng ghét&#8221;? Rudeus Greyrat và Đa dạng trong xây dựng nhân vật.</title>
-		<link>https://alonelycomet.meoki.net/2021/11/21/mushoku-tensei-lam-the-nao-de-thich-mot-nhan-vat-dang-ghet-rudeus-greyrat-su-da-dang-trong-xay-dung-nhan-vat/</link>
-					<comments>https://alonelycomet.meoki.net/2021/11/21/mushoku-tensei-lam-the-nao-de-thich-mot-nhan-vat-dang-ghet-rudeus-greyrat-su-da-dang-trong-xay-dung-nhan-vat/#respond</comments>
+		<link>https://alonelycomet.meoki.vn/2021/11/21/mushoku-tensei-lam-the-nao-de-thich-mot-nhan-vat-dang-ghet-rudeus-greyrat-su-da-dang-trong-xay-dung-nhan-vat/</link>
+					<comments>https://alonelycomet.meoki.vn/2021/11/21/mushoku-tensei-lam-the-nao-de-thich-mot-nhan-vat-dang-ghet-rudeus-greyrat-su-da-dang-trong-xay-dung-nhan-vat/#respond</comments>
 		
 		<dc:creator><![CDATA[SUBA]]></dc:creator>
 		<pubDate>Sun, 21 Nov 2021 13:55:22 +0000</pubDate>
@@ -2517,10 +2517,10 @@ Có hai nghiệm nguyên: (a, b) = (0,1) hoặc (a, b) = (2,11).</pre>
 		<category><![CDATA[analysis]]></category>
 		<category><![CDATA[anime]]></category>
 		<category><![CDATA[mushoku tensei]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=2130</guid>
+		<guid isPermaLink="false">https://alonelycomet.meoki.vn/?p=2130</guid>
 
-					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/mushoku-2111.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Điều gì làm lên một nhân vật mà bạn yêu thích? Nhiều người cho rằng đó là những nhân vật ngầu, mạnh bá hay đẹp trai, xinh gái. Tôi thì đã gặp rất nhiều trường hợp nhân vật mạnh mẽ nhưng lại đầy buồn chán trong những bộ fantasy harem, bởi vì ngoài cái sự “overpower” đó ra thì họ chẳng có gì khác, tính cách nhợt nhạt kiểu anh hùng tốt bụng không có bất cứ sự đặc biệt hay ấn tượng nào. Nên rõ ràng những điều trên không phải là tiêu chí của tôi. Thế thì nhân [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/mushoku-2111.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
+					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/mushoku-2111.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Điều gì làm lên một nhân vật mà bạn yêu thích? Nhiều người cho rằng đó là những nhân vật ngầu, mạnh bá hay đẹp trai, xinh gái. Tôi thì đã gặp rất nhiều trường hợp nhân vật mạnh mẽ nhưng lại đầy buồn chán trong những bộ fantasy harem, bởi vì ngoài cái sự “overpower” đó ra thì họ chẳng có gì khác, tính cách nhợt nhạt kiểu anh hùng tốt bụng không có bất cứ sự đặc biệt hay ấn tượng nào. Nên rõ ràng những điều trên không phải là tiêu chí của tôi. Thế thì nhân [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/mushoku-2111.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
 <p>Điều gì làm lên một nhân vật mà bạn yêu thích? Nhiều người cho rằng đó là những nhân vật ngầu, mạnh bá hay đẹp trai, xinh gái. Tôi thì đã gặp rất nhiều trường hợp nhân vật mạnh mẽ nhưng lại đầy buồn chán trong những bộ fantasy harem, bởi vì ngoài cái sự “overpower” đó ra thì họ chẳng có gì khác, tính cách nhợt nhạt kiểu anh hùng tốt bụng không có bất cứ sự đặc biệt hay ấn tượng nào. Nên rõ ràng những điều trên không phải là tiêu chí của tôi.</p>
 
 
@@ -2644,25 +2644,25 @@ Có hai nghiệm nguyên: (a, b) = (0,1) hoặc (a, b) = (2,11).</pre>
 <h6>Link bài viết gốc : <a href="https://facebook.com/alonelycomet/posts/273635651443828" data-type="URL" data-id="https://facebook.com/alonelycomet/posts/273635651443828">https://facebook.com/alonelycomet/posts/273635651443828</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/11/21/mushoku-tensei-lam-the-nao-de-thich-mot-nhan-vat-dang-ghet-rudeus-greyrat-su-da-dang-trong-xay-dung-nhan-vat/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.vn/2021/11/21/mushoku-tensei-lam-the-nao-de-thich-mot-nhan-vat-dang-ghet-rudeus-greyrat-su-da-dang-trong-xay-dung-nhan-vat/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Shiki – Loài Quỷ &#038; Con Người, Ai Mới Đáng Sợ Hơn?</title>
-		<link>https://alonelycomet.meoki.net/2021/11/10/shiki-loai-quy-con-nguoi-ai-moi-dang-so/</link>
-					<comments>https://alonelycomet.meoki.net/2021/11/10/shiki-loai-quy-con-nguoi-ai-moi-dang-so/#respond</comments>
+		<link>https://alonelycomet.meoki.vn/2021/11/10/shiki-loai-quy-con-nguoi-ai-moi-dang-so/</link>
+					<comments>https://alonelycomet.meoki.vn/2021/11/10/shiki-loai-quy-con-nguoi-ai-moi-dang-so/#respond</comments>
 		
 		<dc:creator><![CDATA[SUBA]]></dc:creator>
 		<pubDate>Wed, 10 Nov 2021 13:00:57 +0000</pubDate>
 				<category><![CDATA[Anime Review]]></category>
 		<category><![CDATA[analysis]]></category>
 		<category><![CDATA[anime]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=1975</guid>
+		<guid isPermaLink="false">https://alonelycomet.meoki.vn/?p=1975</guid>
 
-					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/shiki.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Lưu ý có spoilers ! . Đạo đức là gì? “Đạo đức là hệ thống các quy tắc, chuẩn mực xã hội mà nhờ đó con người tự giác điều chỉnh hành vi của mình sao cho phù hợp với lợi ích của cộng đồng, của xã hội” (Sách giáo khoa Giáo dục công dân lớp 10). Theo định nghĩa trên ta có thể thấy đạo đức, thế nào là đúng, thế nào là sai là dựa trên chủ nghĩa vị lợi (Utilitarianism). Là thuyết cho rằng hành động tốt nhất là hành động đạt được một cách cao nhất [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/shiki.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
+					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/shiki.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Lưu ý có spoilers ! . Đạo đức là gì? “Đạo đức là hệ thống các quy tắc, chuẩn mực xã hội mà nhờ đó con người tự giác điều chỉnh hành vi của mình sao cho phù hợp với lợi ích của cộng đồng, của xã hội” (Sách giáo khoa Giáo dục công dân lớp 10). Theo định nghĩa trên ta có thể thấy đạo đức, thế nào là đúng, thế nào là sai là dựa trên chủ nghĩa vị lợi (Utilitarianism). Là thuyết cho rằng hành động tốt nhất là hành động đạt được một cách cao nhất [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/shiki.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
 <h6>Lưu ý có spoilers !</h6>
 
 
@@ -2758,7 +2758,7 @@ Có hai nghiệm nguyên: (a, b) = (0,1) hoặc (a, b) = (2,11).</pre>
 <h6>Link bài viết gốc:<a href="https://facebook.com/alonelycomet/posts/266511858822874" data-type="URL" data-id="https://facebook.com/alonelycomet/posts/266511858822874"> https://facebook.com/alonelycomet/posts/266511858822874</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/11/10/shiki-loai-quy-con-nguoi-ai-moi-dang-so/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.vn/2021/11/10/shiki-loai-quy-con-nguoi-ai-moi-dang-so/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

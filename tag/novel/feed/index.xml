@@ -9,8 +9,8 @@
 
 <channel>
 	<title>novel &#8211; A Lonely Comet</title>
-	<atom:link href="https://alonelycomet.meoki.net/tag/novel/feed/" rel="self" type="application/rss+xml" />
-	<link>https://alonelycomet.meoki.net</link>
+	<atom:link href="https://alonelycomet.meoki.vn/tag/novel/feed/" rel="self" type="application/rss+xml" />
+	<link>https://alonelycomet.meoki.vn</link>
 	<description>An Anime Blog &#124; Empire of Dreamers</description>
 	<lastBuildDate>Wed, 22 Dec 2021 08:26:22 +0000</lastBuildDate>
 	<language>vi</language>
@@ -18,19 +18,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9</generator>
+	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://alonelycomet.meoki.net/wp-content/uploads/2021/12/cropped-rounded-32x32.png</url>
+	<url>https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/cropped-rounded-32x32.png</url>
 	<title>novel &#8211; A Lonely Comet</title>
-	<link>https://alonelycomet.meoki.net</link>
+	<link>https://alonelycomet.meoki.vn</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Tuần San Kyoto Animation #1</title>
-		<link>https://alonelycomet.meoki.net/2021/12/03/kyoto-animation-1/</link>
-					<comments>https://alonelycomet.meoki.net/2021/12/03/kyoto-animation-1/#respond</comments>
+		<link>https://alonelycomet.meoki.vn/2021/12/03/kyoto-animation-1/</link>
+					<comments>https://alonelycomet.meoki.vn/2021/12/03/kyoto-animation-1/#respond</comments>
 		
 		<dc:creator><![CDATA[v4v]]></dc:creator>
 		<pubDate>Fri, 03 Dec 2021 16:41:20 +0000</pubDate>
@@ -39,10 +39,10 @@
 		<category><![CDATA[news]]></category>
 		<category><![CDATA[novel]]></category>
 		<category><![CDATA[producer]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=2224</guid>
+		<guid isPermaLink="false">https://alonelycomet.meoki.vn/?p=2224</guid>
 
-					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/sakura-no-furu-machi.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Cập nhật thông tin về tình hình hiện tại của Kyoto Animation. KyoAni vẫn đang tích cực “tuyển quân”, mở lớp dạy học đào tạo lứa hoạt họa sĩ mới để gia nhập hàng ngũ nhân sự nhà của mình. Đợt tuyển học viên mới nhất được đăng cách đây chỉ vỏn vẹn 6 giờ, và đây là khóa đào tạo thứ 31. KyoAni vẫn giữ vững lập trường và phương hướng của họ như thuở còn xưa: trọng con người, dung dưỡng tài năng trẻ. Chưa bao giờ KyoAni đi đường tắt, bằng bất kì giá nào họ cũng [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/12/sakura-no-furu-machi.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
+					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/sakura-no-furu-machi.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Cập nhật thông tin về tình hình hiện tại của Kyoto Animation. KyoAni vẫn đang tích cực “tuyển quân”, mở lớp dạy học đào tạo lứa hoạt họa sĩ mới để gia nhập hàng ngũ nhân sự nhà của mình. Đợt tuyển học viên mới nhất được đăng cách đây chỉ vỏn vẹn 6 giờ, và đây là khóa đào tạo thứ 31. KyoAni vẫn giữ vững lập trường và phương hướng của họ như thuở còn xưa: trọng con người, dung dưỡng tài năng trẻ. Chưa bao giờ KyoAni đi đường tắt, bằng bất kì giá nào họ cũng [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/12/sakura-no-furu-machi.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
 <h6>Cập nhật thông tin về tình hình hiện tại của Kyoto Animation.</h6>
 
 
@@ -86,26 +86,26 @@
 <h6>Link bài viết gốc: <a href="https://www.facebook.com/alonelycomet/posts/281244934016233" data-type="URL" data-id="https://www.facebook.com/alonelycomet/posts/281244934016233">https://facebook.com/alonelycomet/posts/281244934016233</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/12/03/kyoto-animation-1/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.vn/2021/12/03/kyoto-animation-1/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nhật Hoạ Kỳ Thư &#8211; Tứ Quyển [Minh Thư]</title>
-		<link>https://alonelycomet.meoki.net/2021/10/27/nhat-hoa-ky-thu-tu-quyen-minh-thu/</link>
-					<comments>https://alonelycomet.meoki.net/2021/10/27/nhat-hoa-ky-thu-tu-quyen-minh-thu/#respond</comments>
+		<link>https://alonelycomet.meoki.vn/2021/10/27/nhat-hoa-ky-thu-tu-quyen-minh-thu/</link>
+					<comments>https://alonelycomet.meoki.vn/2021/10/27/nhat-hoa-ky-thu-tu-quyen-minh-thu/#respond</comments>
 		
 		<dc:creator><![CDATA[Meoki]]></dc:creator>
 		<pubDate>Wed, 27 Oct 2021 06:28:13 +0000</pubDate>
 				<category><![CDATA[Sharing]]></category>
 		<category><![CDATA[novel]]></category>
 		<category><![CDATA[sharing]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=1947</guid>
+		<guid isPermaLink="false">https://alonelycomet.meoki.vn/?p=1947</guid>
 
-					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/lnovel.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Nhật Hoạ Kỳ Thư, quyển thứ tư, Minh Thư. À cái chữ Minh là chơi chữ thôi ạ 😗, còn chơi như nào thì&#8230; thôi. Đại khái Minh Thư sẽ chia sẻ tất tần tật về light novel. Tất nhiên đều là Engsub thôi, nhưng còn đỡ hơn bản raw&#8230; Đam mê thì cứ đọc luôn hoặc copy paste GG dịch mà đọc thôi haha. Tổng quan Light Novel có hai dạng như sau Một là Fantrans, tức là những fans tự dịch light novel. Thường những bản này không đảm bảo được chất lượng, mình có xem vài truyện [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/lnovel.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
-<blockquote class="wp-block-quote"><p>Nhật Hoạ Kỳ Thư, quyển thứ tư, <strong>Minh Thư</strong>. À cái chữ <strong>Minh </strong>là chơi chữ thôi ạ <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f617.png" alt="😗" class="wp-smiley" style="height: 1em; max-height: 1em;" />, còn chơi như nào thì&#8230; thôi. Đại khái Minh Thư sẽ chia sẻ tất tần tật về <strong>light novel</strong>. Tất nhiên đều là Engsub thôi, nhưng còn đỡ hơn bản raw&#8230;</p></blockquote>
+					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/lnovel.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Nhật Hoạ Kỳ Thư, quyển thứ tư, Minh Thư. À cái chữ Minh là chơi chữ thôi ạ 😗, còn chơi như nào thì&#8230; thôi. Đại khái Minh Thư sẽ chia sẻ tất tần tật về light novel. Tất nhiên đều là Engsub thôi, nhưng còn đỡ hơn bản raw&#8230; Đam mê thì cứ đọc luôn hoặc copy paste GG dịch mà đọc thôi haha. Tổng quan Light Novel có hai dạng như sau Một là Fantrans, tức là những fans tự dịch light novel. Thường những bản này không đảm bảo được chất lượng, mình có xem vài truyện [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/lnovel.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
+<blockquote class="wp-block-quote"><p>Nhật Hoạ Kỳ Thư, quyển thứ tư, <strong>Minh Thư</strong>. À cái chữ <strong>Minh </strong>là chơi chữ thôi ạ <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f617.png" alt="😗" class="wp-smiley" style="height: 1em; max-height: 1em;" />, còn chơi như nào thì&#8230; thôi. Đại khái Minh Thư sẽ chia sẻ tất tần tật về <strong>light novel</strong>. Tất nhiên đều là Engsub thôi, nhưng còn đỡ hơn bản raw&#8230;</p></blockquote>
 
 
 
@@ -228,15 +228,15 @@
 <p>Thôi, xin cảm ơn đã đọc&#8230;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/10/27/nhat-hoa-ky-thu-tu-quyen-minh-thu/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.vn/2021/10/27/nhat-hoa-ky-thu-tu-quyen-minh-thu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nhật Hoạ Kỳ Thư &#8211; Tam Quyển [Thời Thư]</title>
-		<link>https://alonelycomet.meoki.net/2021/10/26/nhat-hoa-ky-thu-tam-quyen-thoi-thu/</link>
-					<comments>https://alonelycomet.meoki.net/2021/10/26/nhat-hoa-ky-thu-tam-quyen-thoi-thu/#respond</comments>
+		<link>https://alonelycomet.meoki.vn/2021/10/26/nhat-hoa-ky-thu-tam-quyen-thoi-thu/</link>
+					<comments>https://alonelycomet.meoki.vn/2021/10/26/nhat-hoa-ky-thu-tam-quyen-thoi-thu/#respond</comments>
 		
 		<dc:creator><![CDATA[Meoki]]></dc:creator>
 		<pubDate>Tue, 26 Oct 2021 09:53:23 +0000</pubDate>
@@ -245,10 +245,10 @@
 		<category><![CDATA[manga]]></category>
 		<category><![CDATA[novel]]></category>
 		<category><![CDATA[sharing]]></category>
-		<guid isPermaLink="false">https://alonelycomet.meoki.net/?p=1759</guid>
+		<guid isPermaLink="false">https://alonelycomet.meoki.vn/?p=1759</guid>
 
-					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/itachi.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Thời Thư &#8211; bức thiên thư lược sử về thời gian, ở đây dòng thời gian thuộc về vũ trụ Naruto. Cái này mình làm hồi còn ở bên NarutoMangaFans, rất vất vả a&#8230;  Bài viết có sử dụng các thông tin từ Manga, Anime, Databook, Fanbook, các bài viết trên Reddit, tiểu thuyết Itachi Shinden, Gaara Hiden và một số thông tin của studio Pierrot.  Dòng thời gian này sẽ trải dài từ khi tổ mẫu Kaguya xuất hiện đến trận quyết đấu của Kawaki và Boruto.  Một số thông tin hoàn toàn dựa vào tính toán cá nhân [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2021/11/itachi.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
+					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/itachi.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Thời Thư &#8211; bức thiên thư lược sử về thời gian, ở đây dòng thời gian thuộc về vũ trụ Naruto. Cái này mình làm hồi còn ở bên NarutoMangaFans, rất vất vả a&#8230;  Bài viết có sử dụng các thông tin từ Manga, Anime, Databook, Fanbook, các bài viết trên Reddit, tiểu thuyết Itachi Shinden, Gaara Hiden và một số thông tin của studio Pierrot.  Dòng thời gian này sẽ trải dài từ khi tổ mẫu Kaguya xuất hiện đến trận quyết đấu của Kawaki và Boruto.  Một số thông tin hoàn toàn dựa vào tính toán cá nhân [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2021/11/itachi.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />
 <blockquote class="wp-block-quote"><p><strong>Thời Thư</strong> &#8211; bức thiên thư lược sử về thời gian, ở đây dòng thời gian thuộc về vũ trụ <strong>Naruto</strong>.</p><p>Cái này mình làm hồi còn ở bên <strong>NarutoMangaFans</strong>, rất vất vả a&#8230;</p></blockquote>
 
 
@@ -1152,15 +1152,15 @@
 <p><img loading="lazy" height="16" width="16" alt="&#x1f4cc;" src="https://www.facebook.com/images/emoji.php/v9/tac/1/16/1f4cc.png">&nbsp;Năm 36 aNb<br><img loading="lazy" height="16" width="16" alt="&#x25aa;" src="https://www.facebook.com/images/emoji.php/v9/t4c/1/16/25aa.png">&nbsp;Sớm nhất là ngày 15 tháng 3:<br><img loading="lazy" height="16" width="16" alt="&#x25ab;" src="https://www.facebook.com/images/emoji.php/v9/tcd/1/16/25ab.png">&nbsp;Uzumaki Boruto (16) đánh nhau với Kawaki.<br>(Theo Studio Pierrot , Boruto 16 tuổi khi anh chiến đấu với Kawaki.)</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/10/26/nhat-hoa-ky-thu-tam-quyen-thoi-thu/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.vn/2021/10/26/nhat-hoa-ky-thu-tam-quyen-thoi-thu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title> “Tớ Muốn Ăn Tụy Của Cậu” – Một Tác Phẩm Về Sự Sống</title>
-		<link>https://alonelycomet.meoki.net/2021/09/15/to-muon-an-tuy-cua-cau-mot-tac-pham-ve-su-song/</link>
-					<comments>https://alonelycomet.meoki.net/2021/09/15/to-muon-an-tuy-cua-cau-mot-tac-pham-ve-su-song/#respond</comments>
+		<link>https://alonelycomet.meoki.vn/2021/09/15/to-muon-an-tuy-cua-cau-mot-tac-pham-ve-su-song/</link>
+					<comments>https://alonelycomet.meoki.vn/2021/09/15/to-muon-an-tuy-cua-cau-mot-tac-pham-ve-su-song/#respond</comments>
 		
 		<dc:creator><![CDATA[SUBA]]></dc:creator>
 		<pubDate>Tue, 14 Sep 2021 20:19:00 +0000</pubDate>
@@ -1169,8 +1169,8 @@
 		<category><![CDATA[novel]]></category>
 		<guid isPermaLink="false">https://atbs.bk-ninja.com/suga/?p=48</guid>
 
-					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2019/10/tabetai.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Thông tin: Tên tiếng Nhật: Kimi no Suizou wo Tabetai Đạo diễn: Shinichirou Ushijima Thời lượng: 108 phút. Thể loại: Drama, Slice of life, Romance. Phân tích (Có Spoilers nhé) Bộ anime “Tớ muốn ăn tụy của cậu” mở đầu theo một cách không thể bất ngờ hơn. Những gì chúng ta thấy được trên màn ảnh đó là cô gái nhân vật chính đang nở 1 nụ cười đầy xinh tươi kia, chắc chắn trong hơn 1 tiếng giờ xem nữa … sẽ chết. Khi xem đoạn này tôi đã nghĩ rằng “có thứ gì đó sai sai”, thông [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.net/wp-content/uploads/2019/10/tabetai.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" /><blockquote><p>Thông tin:<br />
+					<description><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2019/10/tabetai.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" />Thông tin: Tên tiếng Nhật: Kimi no Suizou wo Tabetai Đạo diễn: Shinichirou Ushijima Thời lượng: 108 phút. Thể loại: Drama, Slice of life, Romance. Phân tích (Có Spoilers nhé) Bộ anime “Tớ muốn ăn tụy của cậu” mở đầu theo một cách không thể bất ngờ hơn. Những gì chúng ta thấy được trên màn ảnh đó là cô gái nhân vật chính đang nở 1 nụ cười đầy xinh tươi kia, chắc chắn trong hơn 1 tiếng giờ xem nữa … sẽ chết. Khi xem đoạn này tôi đã nghĩ rằng “có thứ gì đó sai sai”, thông [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="576" src="https://alonelycomet.meoki.vn/wp-content/uploads/2019/10/tabetai.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" /><blockquote><p>Thông tin:<br />
 Tên tiếng Nhật: Kimi no Suizou wo Tabetai<br />
 Đạo diễn: Shinichirou Ushijima<br />
 Thời lượng: 108 phút.<br />
@@ -1195,7 +1195,7 @@ Thể loại: Drama, Slice of life, Romance.</p></blockquote>
 <h6>Link bài viết gốc: <a href="https://www.facebook.com/alonelycomet/posts/229293875878006">https://facebook.com/alonelycomet/posts/229293875878006</a></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://alonelycomet.meoki.net/2021/09/15/to-muon-an-tuy-cua-cau-mot-tac-pham-ve-su-song/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alonelycomet.meoki.vn/2021/09/15/to-muon-an-tuy-cua-cau-mot-tac-pham-ve-su-song/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Các phản hồi luận về: Megami Magazine Collection	</title>
-	<atom:link href="https://alonelycomet.meoki.net/2021/12/06/megami-magazine-034-260/feed/" rel="self" type="application/rss+xml" />
-	<link>https://alonelycomet.meoki.net/2021/12/06/megami-magazine-034-260/</link>
+	<atom:link href="https://alonelycomet.meoki.vn/2021/12/06/megami-magazine-034-260/feed/" rel="self" type="application/rss+xml" />
+	<link>https://alonelycomet.meoki.vn/2021/12/06/megami-magazine-034-260/</link>
 	<description>An Anime Blog &#124; Empire of Dreamers</description>
 	<lastBuildDate>Sat, 18 Dec 2021 02:19:04 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9</generator>
+	<generator>https://wordpress.org/?v=6.0</generator>
 </channel>
 </rss>
